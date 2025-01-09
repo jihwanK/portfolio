@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?><printVaccineApps The_Number_Of_Installed_Vaccine_Applications="11">
+<app name="AhnLab V3 Mobile Plus 2.0">
+<package_name>com.ahnlab.v3mobileplus</package_name>
+<installed_date>'14.05.20.</installed_date>
+<classification>백신</classification>
+</app>
+<app name="V3 Mobile+">
+<package_name>com.android.ahnlabv3mobileplus</package_name>
+<installed_date>'14.09.01.</installed_date>
+<classification>백신</classification>
+</app>
+<app name="V3 Mobile 2.0">
+<package_name>com.android.ahnmobilesecurity</package_name>
+<installed_date>'13.07.16.</installed_date>
+<classification>백신</classification>
+</app>
+<app name="avast! 모바일 시큐리티">
+<package_name>com.avast.android.mobilesecurity</package_name>
+<installed_date>'14.09.02.</installed_date>
+<classification>백신</classification>
+</app>
+<app name="알약">
+<package_name>com.estsoft.alyac</package_name>
+<installed_date>'14.09.01.</installed_date>
+<classification>백신</classification>
+</app>
+<app name="ViRobot Mobile Pro">
+<package_name>com.hauri.VrmaPro</package_name>
+<installed_date>'14.01.27.</installed_date>
+<classification>백신</classification>
+</app>
+<app name="ViRobot Mobile 3S">
+<package_name>com.hauri.VrmaPro3S</package_name>
+<installed_date>'14.09.02.</installed_date>
+<classification>백신</classification>
+</app>
+<app name="nProtect Mobile">
+<package_name>com.inca.nprotect</package_name>
+<installed_date>'14.09.02.</installed_date>
+<classification>백신</classification>
+</app>
+<app name="폰키퍼">
+<package_name>com.kisa.secheck.android</package_name>
+<installed_date>'14.09.01.</installed_date>
+<classification>보안앱</classification>
+</app>
+<app name="바이러스스캔 모바일">
+<package_name>com.mcafee.vsmandroid</package_name>
+<installed_date>'14.09.01.</installed_date>
+<classification>백신</classification>
+</app>
+<app name="Norton Mobile Security">
+<package_name>com.symantec.mobilesecurity</package_name>
+<installed_date>'13.12.20.</installed_date>
+<classification>백신</classification>
+</app>
+</printVaccineApps>

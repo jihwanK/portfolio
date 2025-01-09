@@ -1,0 +1,24 @@
+mspy	android.sys.process
+stealthgenie	com.sg.installer.enhanced	com.device.system
+spyapp	android.core
+mobile-spy	com.gpssettings.src.v65
+spybubble	com.sbradio
+eblaster-mobile	com.spectorsoft.eblasterinstaller	com.android.system
+flexispy	com.android.systemupdate
+mobistealth	lookOut.secure
+phonesheriff	com.plugin.sp.v21
+highster-mobile	org.secure.smsgps
+spyera	com.m.android.data
+mobile-monitor	com.system.gps.tools.mmmonnnitor
+ispy	com.ispyoo
+tracer	com.android.process.system
+ArcaneSoul	com.mseedgames.ArcaneSoul
+크리티카	com.gamevil.kritikamobile.android.google.global.normal
+BigBang	com.ubisoft.rabbids.bigbang.ggp
+냥코 대전쟁	jp.co.ponos.battlecatskr
+캔디크러쉬 사가	com.king.candycrushsagakakao
+Brazil World 2014	com.sportgames.world
+Elphis	com.com2us.elpise.normal.freefull.google.global.android.common
+Ridge Racer Slipstream	com.namcobandaigames.ridgeracerss
+Minecraft - Pocket Edition	com.mojang.minecraftpe
+보안UP	com.sec.up

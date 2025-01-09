@@ -1,0 +1,8 @@
+Failure
+Failure
+rm failed for /mnt/sdcard/permission, No such file or directory
+rm failed for /mnt/sdcard/tmp, No such file or directory
+	pkg: /data/local/tmp/SpyDetect.apk
+Success
+Starting: Intent { cmp=detect.spy.app/.MainActivity }
+Success

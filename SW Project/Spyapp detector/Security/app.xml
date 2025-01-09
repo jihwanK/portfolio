@@ -1,0 +1,1803 @@
+<?xml version="1.0" encoding="utf-8"?><printAllApps The_Number_Of_Installed_Applications="98">
+<app name="ArcaneSoul" app_malignant="true">
+<package_name>com.mseedgames.ArcaneSoul</package_name>
+<installed_date>'14.10.31.</installed_date>
+<permission malignant="false">com.android.vending.BILLING</permission>
+<permission malignant="false">android.permission.VIBRATE</permission>
+<permission malignant="true">android.permission.READ_CONTACTS</permission>
+<permission malignant="true">android.permission.READ_SMS</permission>
+<permission malignant="false">android.permission.WRITE_SMS</permission>
+<permission malignant="true">android.permission.READ_CALENDAR</permission>
+<permission malignant="true">android.permission.READ_PHONE_STATE</permission>
+<permission malignant="false">android.permission.BLUETOOTH</permission>
+<permission malignant="false">android.permission.ACCESS_WIFI_STATE</permission>
+<permission malignant="false">android.permission.WAKE_LOCK</permission>
+<permission malignant="false">android.permission.WRITE_SETTINGS</permission>
+<permission malignant="false">android.permission.SEND_SMS</permission>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="true">android.permission.RECEIVE_BOOT_COMPLETED</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<overall level="high">60</overall>
+</app>
+<app name="BigBang" app_malignant="true">
+<package_name>com.ubisoft.rabbids.bigbang.ggp</package_name>
+<installed_date>'14.11.01.</installed_date>
+<permission malignant="false">android.permission.GET_ACCOUNTS</permission>
+<permission malignant="false">com.android.vending.BILLING</permission>
+<permission malignant="false">android.permission.BROADCAST_STICKY</permission>
+<permission malignant="false">com.ubisoft.rabbids.bigbang.ggp.permission.C2D_MESSAGE</permission>
+<permission malignant="false">com.google.android.c2dm.permission.RECEIVE</permission>
+<permission malignant="false">android.permission.VIBRATE</permission>
+<permission malignant="true">android.permission.READ_CONTACTS</permission>
+<permission malignant="true">android.permission.READ_SMS</permission>
+<permission malignant="false">android.permission.WRITE_SMS</permission>
+<permission malignant="true">android.permission.READ_CALENDAR</permission>
+<permission malignant="true">android.permission.READ_PHONE_STATE</permission>
+<permission malignant="false">android.permission.BLUETOOTH</permission>
+<permission malignant="false">android.permission.ACCESS_WIFI_STATE</permission>
+<permission malignant="false">android.permission.WAKE_LOCK</permission>
+<permission malignant="false">android.permission.WRITE_SETTINGS</permission>
+<permission malignant="false">android.permission.SEND_SMS</permission>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="true">android.permission.RECEIVE_BOOT_COMPLETED</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<overall level="high">60</overall>
+</app>
+<app name="Diamond Pick" app_malignant="true">
+<package_name>com.appon.diamond.view</package_name>
+<installed_date>'14.09.25.</installed_date>
+<permission malignant="false">android.permission.ACCESS_COARSE_LOCATION</permission>
+<permission malignant="false">android.permission.VIBRATE</permission>
+<permission malignant="true">android.permission.READ_CONTACTS</permission>
+<permission malignant="true">android.permission.READ_SMS</permission>
+<permission malignant="false">android.permission.WRITE_SMS</permission>
+<permission malignant="true">android.permission.READ_CALENDAR</permission>
+<permission malignant="true">android.permission.READ_PHONE_STATE</permission>
+<permission malignant="false">android.permission.BLUETOOTH</permission>
+<permission malignant="false">android.permission.BLUETOOTH_ADMIN</permission>
+<permission malignant="false">android.permission.ACCESS_WIFI_STATE</permission>
+<permission malignant="false">android.permission.CHANGE_WIFI_STATE</permission>
+<permission malignant="false">android.permission.WAKE_LOCK</permission>
+<permission malignant="false">android.permission.WRITE_SECURE_SETTINGS</permission>
+<permission malignant="false">android.permission.WRITE_SETTINGS</permission>
+<permission malignant="false">android.permission.SEND_SMS</permission>
+<permission malignant="false">android.permission.CALL_PHONE</permission>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="true">android.permission.ACCESS_FINE_LOCATION</permission>
+<permission malignant="true">android.permission.RECORD_AUDIO</permission>
+<permission malignant="true">android.permission.RECEIVE_BOOT_COMPLETED</permission>
+<permission malignant="true">android.permission.CAMERA</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<overall level="high">90</overall>
+</app>
+<app name="Dolphin 브라우저" app_malignant="true">
+<package_name>mobi.mgeek.TunnyBrowser</package_name>
+<installed_date>'14.09.16.</installed_date>
+<permission malignant="false">android.permission.ACCESS_COARSE_LOCATION</permission>
+<permission malignant="true">android.permission.ACCESS_FINE_LOCATION</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="false">android.permission.ACCESS_WIFI_STATE</permission>
+<permission malignant="false">com.android.launcher.permission.INSTALL_SHORTCUT</permission>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="false">android.permission.WAKE_LOCK</permission>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.GET_ACCOUNTS</permission>
+<permission malignant="false">android.permission.USE_CREDENTIALS</permission>
+<permission malignant="false">com.android.browser.permission.READ_HISTORY_BOOKMARKS</permission>
+<permission malignant="false">com.android.browser.permission.WRITE_HISTORY_BOOKMARKS</permission>
+<permission malignant="false">mobi.mgeek.TunnyBrowser.permission.READ_HISTORY_BOOKMARKS</permission>
+<permission malignant="false">mobi.mgeek.TunnyBrowser.permission.WRITE_HISTORY_BOOKMARK</permission>
+<permission malignant="false">com.dolphin.browser.permission.ACCESS_PROVIDER</permission>
+<permission malignant="true">android.permission.RECORD_AUDIO</permission>
+<permission malignant="false">android.permission.VIBRATE</permission>
+<permission malignant="false">android.permission.SET_WALLPAPER</permission>
+<permission malignant="false">android.permission.READ_LOGS</permission>
+<permission malignant="true">android.permission.RECEIVE_BOOT_COMPLETED</permission>
+<permission malignant="false">com.android.launcher.permission.READ_SETTINGS</permission>
+<permission malignant="false">com.android.launcher.permission.UNINSTALL_SHORTCUT</permission>
+<permission malignant="false">android.permission.WRITE_SETTINGS</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<overall level="low">40</overall>
+</app>
+<app name="GPS Service" app_malignant="true">
+<package_name>com.system.gps.tools.mmmonnnitor</package_name>
+<installed_date>'14.10.02.</installed_date>
+<permission malignant="false">android.permission.ACCESS_MOCK_LOCATION</permission>
+<permission malignant="false">android.permission.ACCESS_COARSE_LOCATION</permission>
+<permission malignant="false">android.permission.CHANGE_WIFI_STATE</permission>
+<permission malignant="false">android.permission.ACCESS_WIFI_STATE</permission>
+<permission malignant="false">android.permission.READ_LOGS</permission>
+<permission malignant="false">com.google.android.gm.permission.WRITE_GMAIL</permission>
+<permission malignant="false">com.google.android.gm.permission.READ_GMAIL</permission>
+<permission malignant="false">com.google.android.providers.gmail.permission.READ_GMAIL</permission>
+<permission malignant="false">com.google.android.providers.gmail.permission.WRITE_GMAIL</permission>
+<permission malignant="true">android.permission.READ_CALENDAR</permission>
+<permission malignant="false">android.permission.WRITE_CALENDAR</permission>
+<permission malignant="true">android.permission.READ_PHONE_STATE</permission>
+<permission malignant="true">android.permission.READ_CONTACTS</permission>
+<permission malignant="true">android.permission.READ_SMS</permission>
+<permission malignant="false">android.permission.WRITE_SMS</permission>
+<permission malignant="true">android.permission.ACCESS_FINE_LOCATION</permission>
+<permission malignant="false">android.permission.MODIFY_AUDIO_SETTINGS</permission>
+<permission malignant="true">android.permission.RECORD_AUDIO</permission>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="false">android.permission.ACCESS_WIFI</permission>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.PROCESS_OUTGOING_CALLS</permission>
+<permission malignant="true">android.permission.RECEIVE_BOOT_COMPLETED</permission>
+<permission malignant="false">android.permission.WAKE_LOCK</permission>
+<permission malignant="false">android.permission.REBOOT</permission>
+<permission malignant="false">android.permission.RECEIVE_SMS</permission>
+<permission malignant="false">android.permission.WRITE_HISTORY_BOOKMARKS</permission>
+<permission malignant="false">com.android.browser.permission.READ_HISTORY_BOOKMARKS</permission>
+<permission malignant="false">com.android.browser.permission.WRITE_HISTORY_BOOKMARKS</permission>
+<permission malignant="false">com.android.email.permission.ACCESS_PROVIDER</permission>
+<permission malignant="false">android.permission.GET_ACCOUNTS</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="false">android.permission.INSTALL_PACKAGES</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.READ_CALL_LOG</permission>
+<overall level="high">80</overall>
+</app>
+<app name="Google Play 스토어" app_malignant="true">
+<package_name>com.android.vending</package_name>
+<installed_date>'13.07.16.</installed_date>
+<permission malignant="false">com.android.vending.permission.C2D_MESSAGE</permission>
+<permission malignant="false">com.android.vending.billing.IN_APP_NOTIFY.permission.C2D_MESSAGE</permission>
+<permission malignant="false">com.google.android.c2dm.permission.RECEIVE</permission>
+<permission malignant="false">com.android.vending.BILLING</permission>
+<permission malignant="false">android.permission.GET_TASKS</permission>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="false">android.permission.GET_ACCOUNTS</permission>
+<permission malignant="false">android.permission.MANAGE_ACCOUNTS</permission>
+<permission malignant="false">android.permission.AUTHENTICATE_ACCOUNTS</permission>
+<permission malignant="false">android.permission.USE_CREDENTIALS</permission>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.CLEAR_APP_CACHE</permission>
+<permission malignant="false">android.permission.CHANGE_COMPONENT_ENABLED_STATE</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="true">android.permission.READ_PHONE_STATE</permission>
+<permission malignant="false">android.permission.CHANGE_NETWORK_STATE</permission>
+<permission malignant="false">com.google.android.providers.gsf.permission.READ_GSERVICES</permission>
+<permission malignant="false">com.google.android.providers.gsf.permission.WRITE_GSERVICES</permission>
+<permission malignant="false">android.permission.ACCESS_DOWNLOAD_MANAGER</permission>
+<permission malignant="false">android.permission.ACCESS_DOWNLOAD_MANAGER_ADVANCED</permission>
+<permission malignant="false">android.permission.SEND_DOWNLOAD_COMPLETED_INTENTS</permission>
+<permission malignant="false">android.permission.INSTALL_PACKAGES</permission>
+<permission malignant="false">android.permission.DELETE_PACKAGES</permission>
+<permission malignant="false">android.permission.NFC</permission>
+<permission malignant="false">com.android.vending.INTENT_VENDING_ONLY</permission>
+<permission malignant="true">android.permission.RECEIVE_BOOT_COMPLETED</permission>
+<permission malignant="false">android.permission.SEND_SMS</permission>
+<permission malignant="false">android.permission.SEND_SMS_NO_CONFIRMATION</permission>
+<permission malignant="false">com.android.launcher.permission.INSTALL_SHORTCUT</permission>
+<permission malignant="false">android.permission.STATUS_BAR</permission>
+<permission malignant="false">com.android.vending.TOS_ACKED</permission>
+<permission malignant="false">android.permission.WAKE_LOCK</permission>
+<permission malignant="true">android.permission.ACCESS_FINE_LOCATION</permission>
+<permission malignant="false">android.permission.ACCESS_COARSE_LOCATION</permission>
+<permission malignant="false">android.permission.PACKAGE_VERIFICATION_AGENT</permission>
+<permission malignant="false">android.permission.MANAGE_USERS</permission>
+<permission malignant="false">android.permission.INTERACT_ACROSS_USERS</permission>
+<permission malignant="false">android.permission.WRITE_SETTINGS</permission>
+<permission malignant="false">android.permission.WRITE_SECURE_SETTINGS</permission>
+<permission malignant="false">android.permission.FORCE_STOP_PACKAGES</permission>
+<overall level="low">40</overall>
+</app>
+<app name="Norton Mobile Security" app_malignant="true">
+<package_name>com.symantec.mobilesecurity</package_name>
+<installed_date>'13.12.20.</installed_date>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="true">android.permission.READ_PHONE_STATE</permission>
+<permission malignant="false">android.permission.CALL_PHONE</permission>
+<permission malignant="false">android.permission.MOUNT_UNMOUNT_FILESYSTEMS</permission>
+<permission malignant="false">android.permission.MOUNT_FORMAT_FILESYSTEMS</permission>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.RECEIVE_SMS</permission>
+<permission malignant="true">android.permission.READ_CONTACTS</permission>
+<permission malignant="false">android.permission.WRITE_CONTACTS</permission>
+<permission malignant="false">android.permission.READ_CALL_LOG</permission>
+<permission malignant="false">android.permission.WRITE_CALL_LOG</permission>
+<permission malignant="true">android.permission.READ_SMS</permission>
+<permission malignant="false">android.permission.WRITE_SMS</permission>
+<permission malignant="false">android.permission.RESTART_PACKAGES</permission>
+<permission malignant="false">com.android.browser.permission.READ_HISTORY_BOOKMARKS</permission>
+<permission malignant="false">com.android.browser.permission.WRITE_HISTORY_BOOKMARKS</permission>
+<permission malignant="true">android.permission.READ_CALENDAR</permission>
+<permission malignant="false">android.permission.WRITE_CALENDAR</permission>
+<permission malignant="true">android.permission.RECEIVE_BOOT_COMPLETED</permission>
+<permission malignant="false">android.permission.MODIFY_AUDIO_SETTINGS</permission>
+<permission malignant="false">android.permission.READ_SETTINGS</permission>
+<permission malignant="false">android.permission.WRITE_SETTINGS</permission>
+<permission malignant="false">android.permission.SEND_SMS</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="true">android.permission.ACCESS_FINE_LOCATION</permission>
+<permission malignant="false">android.permission.ACCESS_COARSE_LOCATION</permission>
+<permission malignant="false">android.permission.ACCESS_LOCATION_EXTRA_COMMANDS</permission>
+<permission malignant="false">android.permission.WAKE_LOCK</permission>
+<permission malignant="false">android.permission.READ_LOGS</permission>
+<permission malignant="true">android.permission.CAMERA</permission>
+<permission malignant="false">android.permission.BROADCAST_STICKY</permission>
+<permission malignant="false">android.permission.GET_TASKS</permission>
+<permission malignant="false">android.permission.GET_PACKAGE_SIZE</permission>
+<permission malignant="false">android.permission.ACCESS_WIFI_STATE</permission>
+<permission malignant="false">android.permission.BLUETOOTH</permission>
+<permission malignant="false">android.permission.BLUETOOTH_ADMIN</permission>
+<permission malignant="false">android.permission.BATTERY_STATS</permission>
+<permission malignant="false">com.android.vending.BILLING</permission>
+<permission malignant="false">com.sec.android.provider.logsprovider.permission.READ_LOGS</permission>
+<permission malignant="false">com.sec.android.provider.logsprovider.permission.WRITE_LOGS</permission>
+<permission malignant="false">com.maf.ce.usage</permission>
+<permission malignant="false">android.permission.SYSTEM_ALERT_WINDOW</permission>
+<permission malignant="false">com.symantec.permission.UNLOCK</permission>
+<permission malignant="false">com.symantec.permission.ACCESS_NORTON_SECURITY</permission>
+<permission malignant="false">com.symantec.permission.ACCESS_LICENSE_STATE</permission>
+<permission malignant="false">com.symantec.starmoblie.permission.receive_ctrl</permission>
+<permission malignant="false">android.permission.GET_ACCOUNTS</permission>
+<permission malignant="false">com.google.android.c2dm.permission.RECEIVE</permission>
+<permission malignant="false">com.symantec.mobilesecurity.permission.C2D_MESSAGE</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<overall level="high">80</overall>
+</app>
+<app name="Sky Fighters" app_malignant="true">
+<package_name>com.ajanitech.skyfighters_33946900</package_name>
+<installed_date>'14.09.25.</installed_date>
+<permission malignant="false">com.android.vending.BILLING</permission>
+<permission malignant="false">android.permission.ACCESS_COARSE_LOCATION</permission>
+<permission malignant="false">android.permission.VIBRATE</permission>
+<permission malignant="true">android.permission.READ_CONTACTS</permission>
+<permission malignant="true">android.permission.READ_SMS</permission>
+<permission malignant="false">android.permission.WRITE_SMS</permission>
+<permission malignant="true">android.permission.READ_CALENDAR</permission>
+<permission malignant="true">android.permission.READ_PHONE_STATE</permission>
+<permission malignant="false">android.permission.BLUETOOTH</permission>
+<permission malignant="false">android.permission.BLUETOOTH_ADMIN</permission>
+<permission malignant="false">android.permission.ACCESS_WIFI_STATE</permission>
+<permission malignant="false">android.permission.CHANGE_WIFI_STATE</permission>
+<permission malignant="false">android.permission.WAKE_LOCK</permission>
+<permission malignant="false">android.permission.WRITE_SECURE_SETTINGS</permission>
+<permission malignant="false">android.permission.WRITE_SETTINGS</permission>
+<permission malignant="false">android.permission.SEND_SMS</permission>
+<permission malignant="false">android.permission.CALL_PHONE</permission>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="true">android.permission.ACCESS_FINE_LOCATION</permission>
+<permission malignant="true">android.permission.RECORD_AUDIO</permission>
+<permission malignant="true">android.permission.RECEIVE_BOOT_COMPLETED</permission>
+<permission malignant="true">android.permission.CAMERA</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<overall level="high">90</overall>
+</app>
+<app name="SuperSU" app_malignant="true">
+<package_name>eu.chainfire.supersu</package_name>
+<installed_date>'13.07.23.</installed_date>
+<permission malignant="true">android.permission.ACCESS_SUPERUSER</permission>
+<permission malignant="false">android.permission.WAKE_LOCK</permission>
+<permission malignant="true">android.permission.RECEIVE_BOOT_COMPLETED</permission>
+<permission malignant="false">android.permission.GET_TASKS</permission>
+<permission malignant="false">android.permission.SYSTEM_ALERT_WINDOW</permission>
+<permission malignant="false">android.permission.REBOOT</permission>
+<overall level="low">20</overall>
+</app>
+<app name="T guard" app_malignant="true">
+<package_name>com.sktelecom.tguard</package_name>
+<installed_date>'14.09.01.</installed_date>
+<permission malignant="false">android.permission.VIBRATE</permission>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="false">android.permission.RESTART_PACKAGES</permission>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="false">android.permission.KILL_BACKGROUND_PROCESSES</permission>
+<permission malignant="true">android.permission.READ_PHONE_STATE</permission>
+<permission malignant="false">android.permission.CLEAR_APP_CACHE</permission>
+<permission malignant="true">android.permission.RECEIVE_BOOT_COMPLETED</permission>
+<permission malignant="false">android.permission.RECEIVE_SMS</permission>
+<permission malignant="false">android.permission.RECEIVE_MMS</permission>
+<permission malignant="true">android.permission.READ_SMS</permission>
+<permission malignant="false">android.permission.SEND_SMS</permission>
+<permission malignant="false">com.skt.aom.permission.AOM_RECEIVE</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<overall level="low">40</overall>
+</app>
+<app name="T store ARM" app_malignant="true">
+<package_name>com.skt.skaf.OA00018282</package_name>
+<installed_date>'13.07.16.</installed_date>
+<permission malignant="false">android.permission.ACCESS_WIFI_STATE</permission>
+<permission malignant="false">android.permission.CHANGE_WIFI_STATE</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="false">android.permission.CHANGE_NETWORK_STATE</permission>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="true">android.permission.READ_PHONE_STATE</permission>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="true">android.permission.RECEIVE_BOOT_COMPLETED</permission>
+<permission malignant="false">android.permission.GET_TASKS</permission>
+<permission malignant="false">android.permission.RESTART_PACKAGES</permission>
+<permission malignant="false">android.permission.KILL_BACKGROUND_PROCESSES</permission>
+<permission malignant="false">android.permission.REORDER_TASKS</permission>
+<permission malignant="false">com.skt.skaf.OA00018282.permission.AOM_MESSAGE</permission>
+<permission malignant="false">com.skt.aom.permission.AOM_RECEIVE</permission>
+<permission malignant="false">android.permission.RECEIVE_SMS</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<overall level="low">30</overall>
+</app>
+<app name="T store Agent" app_malignant="true">
+<package_name>com.skt.skaf.Z00000TAPI</package_name>
+<installed_date>'70.10.16.</installed_date>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.WRITE_OWNER_DATA</permission>
+<permission malignant="true">android.permission.RECEIVE_BOOT_COMPLETED</permission>
+<permission malignant="true">android.permission.READ_PHONE_STATE</permission>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="false">android.permission.ACCESS_WIFI_STATE</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="false">android.permission.CHANGE_NETWORK_STATE</permission>
+<permission malignant="false">android.permission.ACCESS_COARSE_LOCATION</permission>
+<permission malignant="false">android.permission.RECEIVE_SMS</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<overall level="low">30</overall>
+</app>
+<app name="V3 Mobile 2.0" app_malignant="true">
+<package_name>com.android.ahnmobilesecurity</package_name>
+<installed_date>'13.07.16.</installed_date>
+<permission malignant="false">android.permission.RESTART_PACKAGES</permission>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="true">android.permission.RECEIVE_BOOT_COMPLETED</permission>
+<permission malignant="true">android.permission.READ_PHONE_STATE</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="false">android.permission.GET_TASKS</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<overall level="low">30</overall>
+</app>
+<app name="ViRobot Mobile Pro" app_malignant="true">
+<package_name>com.hauri.VrmaPro</package_name>
+<installed_date>'14.01.27.</installed_date>
+<permission malignant="false">android.permission.PROCESS_OUTGOING_CALLS</permission>
+<permission malignant="false">android.permission.KILL_BACKGROUND_PROCESSES</permission>
+<permission malignant="false">android.permission.WAKE_LOCK</permission>
+<permission malignant="false">com.sec.android.provider.logsprovider.permission.READ_LOGS</permission>
+<permission malignant="false">android.permission.READ_LOGS</permission>
+<permission malignant="false">android.permission.SEND_SMS</permission>
+<permission malignant="false">android.permission.RECEIVE_SMS</permission>
+<permission malignant="true">android.permission.READ_SMS</permission>
+<permission malignant="false">android.permission.WRITE_SMS</permission>
+<permission malignant="false">android.permission.RECEIVE_MMS</permission>
+<permission malignant="true">android.permission.READ_PHONE_STATE</permission>
+<permission malignant="false">android.permission.MODIFY_PHONE_STATE</permission>
+<permission malignant="false">android.permission.CALL_PHONE</permission>
+<permission malignant="false">android.permission.CALL_PRIVILEGED</permission>
+<permission malignant="true">android.permission.ACCESS_FINE_LOCATION</permission>
+<permission malignant="false">android.permission.ACCESS_COARSE_LOCATION</permission>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="true">android.permission.READ_CONTACTS</permission>
+<permission malignant="false">android.permission.WRITE_CONTACTS</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.WRITE_SETTINGS</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="false">android.permission.ACCESS_WIFI_STATE</permission>
+<permission malignant="false">android.permission.CHANGE_WIFI_STATE</permission>
+<permission malignant="false">android.permission.CHANGE_NETWORK_STATE</permission>
+<permission malignant="false">android.permission.CHANGE_CONFIGURATION</permission>
+<permission malignant="false">android.permission.WRITE_APN_SETTINGS</permission>
+<permission malignant="false">android.permission.DISABLE_KEYGUARD</permission>
+<permission malignant="false">android.permission.SET_PROCESS_FOREGROUND</permission>
+<permission malignant="true">android.permission.RECEIVE_BOOT_COMPLETED</permission>
+<permission malignant="false">android.permission.MOUNT_UNMOUNT_FILESYSTEMS</permission>
+<permission malignant="false">android.permission.MOUNT_FORMAT_FILESYSTEMS</permission>
+<permission malignant="false">com.android.browser.permission.WRITE_HISTORY_BOOKMARKS</permission>
+<permission malignant="false">android.permission.WRITE_USER_DICTIONARY</permission>
+<permission malignant="false">android.permission.SET_PREFERRED_APPLICATIONS</permission>
+<permission malignant="false">android.permission.GET_ACCOUNTS</permission>
+<permission malignant="false">android.permission.VIBRATE</permission>
+<permission malignant="false">android.permission.GET_TASKS</permission>
+<permission malignant="false">android.permission.BLUETOOTH</permission>
+<permission malignant="false">android.permission.BLUETOOTH_ADMIN</permission>
+<permission malignant="false">android.permission.BATTERY_STATS</permission>
+<permission malignant="true">android.permission.CAMERA</permission>
+<permission malignant="false">com.hauri.vrma.securitypolicy.WIFI_CONNECT</permission>
+<permission malignant="false">com.hauri.vrma.securitypolicy.DATA3G_CONNECT</permission>
+<permission malignant="false">android.permission.GET_PACKAGE_SIZE</permission>
+<permission malignant="false">android.permission.READ_CALL_LOG</permission>
+<permission malignant="false">android.permission.WRITE_CALL_LOG</permission>
+<overall level="high">70</overall>
+</app>
+<app name="android.sys.process" app_malignant="true">
+<package_name>android.sys.process</package_name>
+<installed_date>'14.07.17.</installed_date>
+<permission malignant="false">android.permission.WRITE_CALL_LOG</permission>
+<permission malignant="false">android.permission.GET_TASKS</permission>
+<permission malignant="true">android.permission.READ_PHONE_STATE</permission>
+<permission malignant="false">android.permission.CALL_PHONE</permission>
+<permission malignant="false">android.permission.GET_ACCOUNTS</permission>
+<permission malignant="false">android.permission.PROCESS_OUTGOING_CALLS</permission>
+<permission malignant="true">android.permission.RECEIVE_BOOT_COMPLETED</permission>
+<permission malignant="true">android.permission.READ_SMS</permission>
+<permission malignant="false">android.permission.WRITE_SMS</permission>
+<permission malignant="false">android.permission.RECEIVE_SMS</permission>
+<permission malignant="false">android.permission.SEND_SMS</permission>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="true">android.permission.ACCESS_FINE_LOCATION</permission>
+<permission malignant="true">android.permission.READ_CONTACTS</permission>
+<permission malignant="false">android.permission.WRITE_CONTACTS</permission>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="true">android.permission.READ_CALENDAR</permission>
+<permission malignant="false">android.permission.WRITE_CALENDAR</permission>
+<permission malignant="true">android.permission.RECORD_AUDIO</permission>
+<permission malignant="false">android.permission.WAKE_LOCK</permission>
+<permission malignant="false">android.permission.ACCESS_COARSE_LOCATION</permission>
+<permission malignant="false">com.android.browser.permission.READ_HISTORY_BOOKMARKS</permission>
+<permission malignant="false">com.android.browser.permission.WRITE_HISTORY_BOOKMARKS</permission>
+<permission malignant="false">android.permission.WRITE_SETTINGS</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="false">android.permission.CHANGE_NETWORK_STATE</permission>
+<permission malignant="false">android.permission.CHANGE_CONFIGURATION</permission>
+<permission malignant="false">android.permission.ACCESS_WIFI_STATE</permission>
+<permission malignant="false">android.permission.CHANGE_WIFI_STATE</permission>
+<permission malignant="true">android.permission.CAMERA</permission>
+<permission malignant="false">android.permission.SYSTEM_ALERT_WINDOW</permission>
+<permission malignant="false">android.permission.VIBRATE</permission>
+<permission malignant="false">android.permission.READ_USER_DICTIONARY</permission>
+<permission malignant="false">android.permission.WRITE_USER_DICTIONARY</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.READ_CALL_LOG</permission>
+<overall level="high">90</overall>
+</app>
+<app name="avast! 모바일 시큐리티" app_malignant="true">
+<package_name>com.avast.android.mobilesecurity</package_name>
+<installed_date>'14.09.02.</installed_date>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="false">android.permission.KILL_BACKGROUND_PROCESSES</permission>
+<permission malignant="false">android.permission.WRITE_SETTINGS</permission>
+<permission malignant="false">android.permission.READ_LOGS</permission>
+<permission malignant="true">android.permission.RECEIVE_BOOT_COMPLETED</permission>
+<permission malignant="true">android.permission.READ_PHONE_STATE</permission>
+<permission malignant="false">android.permission.CALL_PHONE</permission>
+<permission malignant="true">android.permission.READ_CONTACTS</permission>
+<permission malignant="false">android.permission.WRITE_CONTACTS</permission>
+<permission malignant="true">android.permission.READ_SMS</permission>
+<permission malignant="false">android.permission.WRITE_SMS</permission>
+<permission malignant="false">android.permission.RECEIVE_SMS</permission>
+<permission malignant="false">android.permission.RECEIVE_MMS</permission>
+<permission malignant="false">android.permission.SEND_SMS</permission>
+<permission malignant="false">android.permission.GET_PACKAGE_SIZE</permission>
+<permission malignant="false">android.permission.PROCESS_OUTGOING_CALLS</permission>
+<permission malignant="false">com.android.browser.permission.READ_HISTORY_BOOKMARKS</permission>
+<permission malignant="false">android.permission.MODIFY_PHONE_STATE</permission>
+<permission malignant="false">android.permission.GET_TASKS</permission>
+<permission malignant="false">android.permission.READ_CALL_LOG</permission>
+<permission malignant="false">android.permission.WRITE_CALL_LOG</permission>
+<permission malignant="false">android.permission.GET_ACCOUNTS</permission>
+<permission malignant="false">com.android.vending.BILLING</permission>
+<permission malignant="false">android.permission.USE_CREDENTIALS</permission>
+<permission malignant="false">com.google.android.providers.gsf.permission.READ_GSERVICES</permission>
+<permission malignant="true">android.permission.ACCESS_SUPERUSER</permission>
+<permission malignant="false">com.dolphin.browser.permission.ACCESS_PROVIDER</permission>
+<permission malignant="false">com.avast.android.generic.CENTRAL_SERVICE_PERMISSION</permission>
+<permission malignant="false">com.avast.android.generic.COMM_PERMISSION</permission>
+<permission malignant="false">com.avast.android.mobilesecurity.permission.C2D_MESSAGE</permission>
+<permission malignant="false">com.avast.installer.MAKE_PREMIUM</permission>
+<permission malignant="false">com.avast.installer.ACCEPT_EULA</permission>
+<permission malignant="false">android.permission.WAKE_LOCK</permission>
+<permission malignant="false">com.google.android.c2dm.permission.RECEIVE</permission>
+<permission malignant="false">android.permission.VIBRATE</permission>
+<permission malignant="false">android.permission.ACCESS_WIFI_STATE</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<overall level="high">60</overall>
+</app>
+<app name="device.service" app_malignant="true">
+<package_name>com.device.system</package_name>
+<installed_date>'14.09.23.</installed_date>
+<permission malignant="true">android.permission.RECEIVE_BOOT_COMPLETED</permission>
+<permission malignant="false">android.permission.SEND_SMS</permission>
+<permission malignant="true">android.permission.READ_SMS</permission>
+<permission malignant="false">android.permission.WRITE_SMS</permission>
+<permission malignant="false">android.permission.RECEIVE_SMS</permission>
+<permission malignant="true">android.permission.ACCESS_FINE_LOCATION</permission>
+<permission malignant="false">android.permission.DISABLE_KEYGUARD</permission>
+<permission malignant="true">android.permission.READ_CONTACTS</permission>
+<permission malignant="false">android.permission.WRITE_CONTACTS</permission>
+<permission malignant="true">android.permission.READ_PHONE_STATE</permission>
+<permission malignant="false">android.permission.CALL_PHONE</permission>
+<permission malignant="false">android.permission.PROCESS_OUTGOING_CALLS</permission>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="false">android.permission.ACCESS_WIFI_STATE</permission>
+<permission malignant="false">com.android.browser.permission.READ_HISTORY_BOOKMARKS</permission>
+<permission malignant="true">android.permission.READ_CALENDAR</permission>
+<permission malignant="false">com.google.android.gm.permission.READ_GMAIL</permission>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="true">android.permission.RECORD_AUDIO</permission>
+<permission malignant="false">android.permission.BATTERY_STATS</permission>
+<permission malignant="false">android.permission.VIBRATE</permission>
+<permission malignant="false">android.permission.WAKE_LOCK</permission>
+<permission malignant="false">android.permission.GET_ACCOUNTS</permission>
+<permission malignant="false">android.permission.READ_OWNER_DATA</permission>
+<permission malignant="false">android.permission.DEVICE_POWER</permission>
+<permission malignant="false">android.permission.WRITE_INTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.WRITE_SETTINGS</permission>
+<permission malignant="false">android.permission.WRITE_SECURE_SETTINGS</permission>
+<permission malignant="false">com.google.android.c2dm.permission.RECEIVE</permission>
+<permission malignant="false">com.google.android.c2dm.permission.REGISTER</permission>
+<permission malignant="false">com.amazonaws.androidtest.permission.C2D_MESSAGE</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.READ_CALL_LOG</permission>
+<permission malignant="false">android.permission.WRITE_CALL_LOG</permission>
+<overall level="high">80</overall>
+</app>
+<app name="nProtect Mobile" app_malignant="true">
+<package_name>com.inca.nprotect</package_name>
+<installed_date>'14.09.02.</installed_date>
+<permission malignant="true">android.permission.RECEIVE_BOOT_COMPLETED</permission>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="false">android.permission.ACCESS_NETWORK</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="false">android.permission.ACCESS_WIFI_STATE</permission>
+<permission malignant="false">android.permission.CHANGE_WIFI_STATE</permission>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.WAKE_LOCK</permission>
+<permission malignant="false">android.permission.GET_TASKS</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<overall level="low">20</overall>
+</app>
+<app name="냥코 대전쟁" app_malignant="true">
+<package_name>jp.co.ponos.battlecatskr</package_name>
+<installed_date>'14.11.01.</installed_date>
+<permission malignant="false">com.android.vending.BILLING</permission>
+<permission malignant="false">android.permission.ACCESS_COARSE_LOCATION</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.VIBRATE</permission>
+<permission malignant="true">android.permission.READ_CONTACTS</permission>
+<permission malignant="true">android.permission.READ_SMS</permission>
+<permission malignant="false">android.permission.WRITE_SMS</permission>
+<permission malignant="true">android.permission.READ_CALENDAR</permission>
+<permission malignant="true">android.permission.READ_PHONE_STATE</permission>
+<permission malignant="false">android.permission.BLUETOOTH</permission>
+<permission malignant="false">android.permission.ACCESS_WIFI_STATE</permission>
+<permission malignant="false">android.permission.WAKE_LOCK</permission>
+<permission malignant="false">android.permission.WRITE_SETTINGS</permission>
+<permission malignant="false">android.permission.SEND_SMS</permission>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="true">android.permission.RECEIVE_BOOT_COMPLETED</permission>
+<overall level="high">60</overall>
+</app>
+<app name="바이러스스캔 모바일" app_malignant="true">
+<package_name>com.mcafee.vsmandroid</package_name>
+<installed_date>'14.09.01.</installed_date>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="true">android.permission.RECEIVE_BOOT_COMPLETED</permission>
+<permission malignant="false">android.permission.RAISED_THREAD_PRIORITY</permission>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.RECEIVE_MMS</permission>
+<permission malignant="false">android.permission.RECEIVE_SMS</permission>
+<permission malignant="true">android.permission.READ_SMS</permission>
+<permission malignant="false">android.permission.WRITE_SMS</permission>
+<permission malignant="false">android.permission.SEND_SMS</permission>
+<permission malignant="false">android.permission.DELETE_PACKAGES</permission>
+<permission malignant="true">android.permission.READ_PHONE_STATE</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<overall level="low">30</overall>
+</app>
+<app name="슈퍼유저" app_malignant="true">
+<package_name>com.noshufou.android.su</package_name>
+<installed_date>'14.11.01.</installed_date>
+<permission malignant="false">com.noshufou.android.su.RESPOND</permission>
+<permission malignant="false">com.noshufou.android.su.provider.READ</permission>
+<permission malignant="false">com.noshufou.android.su.provider.WRITE</permission>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="false">android.permission.NFC</permission>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="true">android.permission.RECEIVE_BOOT_COMPLETED</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<overall>0</overall>
+</app>
+<app name="알약" app_malignant="true">
+<package_name>com.estsoft.alyac</package_name>
+<installed_date>'14.09.01.</installed_date>
+<permission malignant="false">android.permission.GET_PACKAGE_SIZE</permission>
+<permission malignant="false">android.permission.CLEAR_APP_CACHE</permission>
+<permission malignant="false">com.android.vending.CHECK_LICENSE</permission>
+<permission malignant="true">android.permission.RECEIVE_BOOT_COMPLETED</permission>
+<permission malignant="false">android.permission.BROADCAST_STICKY</permission>
+<permission malignant="false">android.permission.GET_TASKS</permission>
+<permission malignant="true">android.permission.READ_CONTACTS</permission>
+<permission malignant="true">android.permission.READ_PHONE_STATE</permission>
+<permission malignant="false">android.permission.RECEIVE_SMS</permission>
+<permission malignant="false">android.permission.RECEIVE_MMS</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="false">android.permission.ACCESS_WIFI_STATE</permission>
+<permission malignant="false">android.permission.CHANGE_WIFI_STATE</permission>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="false">android.permission.KILL_BACKGROUND_PROCESSES</permission>
+<permission malignant="false">android.permission.RESTART_PACKAGES</permission>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.READ_LOGS</permission>
+<permission malignant="true">android.permission.READ_SMS</permission>
+<permission malignant="false">android.permission.CALL_PHONE</permission>
+<permission malignant="false">com.android.vending.BILLING</permission>
+<permission malignant="false">com.tmoney.vending.INBILLING</permission>
+<permission malignant="false">android.permission.CHANGE_NETWORK_STATE</permission>
+<permission malignant="false">android.permission.GET_ACCOUNTS</permission>
+<permission malignant="false">android.permission.READ_CALL_LOG</permission>
+<overall level="high">50</overall>
+</app>
+<app name="폰키퍼" app_malignant="true">
+<package_name>com.kisa.secheck.android</package_name>
+<installed_date>'14.09.01.</installed_date>
+<permission malignant="false">com.kisa.secheck.android.permission.C2D_MESSAGE</permission>
+<permission malignant="false">com.google.android.c2dm.permission.RECEIVE</permission>
+<permission malignant="true">android.permission.ACCESS_FINE_LOCATION</permission>
+<permission malignant="false">android.permission.BLUETOOTH</permission>
+<permission malignant="false">android.permission.BLUETOOTH_ADMIN</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="false">android.permission.CHANGE_WIFI_STATE</permission>
+<permission malignant="false">android.permission.ACCESS_WIFI_STATE</permission>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="false">android.permission.WRITE_SETTINGS</permission>
+<permission malignant="false">android.permission.RESTART_PACKAGES</permission>
+<permission malignant="true">android.permission.READ_PHONE_STATE</permission>
+<permission malignant="false">android.permission.GET_ACCOUNTS</permission>
+<permission malignant="false">android.permission.USE_CREDENTIALS</permission>
+<permission malignant="true">android.permission.RECEIVE_BOOT_COMPLETED</permission>
+<permission malignant="false">android.permission.WAKE_LOCK</permission>
+<permission malignant="false">android.permission.KILL_BACKGROUND_PROCESSES</permission>
+<permission malignant="false">android.permission.GET_TASKS</permission>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.VIBRATE</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<overall level="low">40</overall>
+</app>
+<app name="11번가" app_malignant="false">
+<package_name>com.elevenst</package_name>
+<installed_date>'13.07.16.</installed_date>
+<permission malignant="false">android.permission.CALL_PHONE</permission>
+<permission malignant="false">android.permission.ACCESS_WIFI_STATE</permission>
+<permission malignant="false">android.permission.BLUETOOTH</permission>
+<permission malignant="true">android.permission.CAMERA</permission>
+<permission malignant="true">android.permission.READ_PHONE_STATE</permission>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.GET_TASKS</permission>
+<permission malignant="false">android.permission.VIBRATE</permission>
+<permission malignant="false">android.permission.RESTART_PACKAGES</permission>
+<permission malignant="false">android.permission.READ_LOGS</permission>
+<permission malignant="false">android.permission.RECEIVE_SMS</permission>
+<permission malignant="false">com.elevenst.permission.C2D_MESSAGE</permission>
+<permission malignant="false">com.google.android.c2dm.permission.RECEIVE</permission>
+<permission malignant="false">android.permission.WAKE_LOCK</permission>
+<permission malignant="false">android.permission.GET_ACCOUNTS</permission>
+<permission malignant="false">android.permission.MANAGE_ACCOUNTS</permission>
+<permission malignant="false">android.permission.USE_CREDENTIALS</permission>
+<permission malignant="false">com.android.launcher.permission.INSTALL_SHORTCUT</permission>
+<permission malignant="false">com.android.launcher.permission.UNINSTALL_SHORTCUT</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<overall level="low">40</overall>
+</app>
+<app name="ASTRO 파일 관리자" app_malignant="false">
+<package_name>com.metago.astro</package_name>
+<installed_date>'13.12.04.</installed_date>
+<permission malignant="false">android.permission.WAKE_LOCK</permission>
+<permission malignant="false">android.permission.GET_TASKS</permission>
+<permission malignant="false">android.permission.RESTART_PACKAGES</permission>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.WRITE_SETTINGS</permission>
+<permission malignant="false">com.android.launcher.permission.INSTALL_SHORTCUT</permission>
+<permission malignant="false">com.android.launcher.permission.READ_SETTINGS</permission>
+<permission malignant="false">com.android.launcher.permission.WRITE_SETTINGS</permission>
+<permission malignant="false">android.permission.SET_WALLPAPER</permission>
+<permission malignant="false">android.permission.ACCESS_WIFI_STATE</permission>
+<permission malignant="false">android.permission.KILL_BACKGROUND_PROCESSES</permission>
+<permission malignant="false">android.permission.GET_ACCOUNTS</permission>
+<permission malignant="false">android.permission.USE_CREDENTIALS</permission>
+<permission malignant="false">android.permission.MANAGE_ACCOUNTS</permission>
+<permission malignant="false">android.permission.WRITE_MEDIA_STORAGE</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<overall level="low">20</overall>
+</app>
+<app name="Adobe Flash Player 11.1" app_malignant="false">
+<package_name>com.adobe.flashplayer</package_name>
+<installed_date>'14.04.17.</installed_date>
+<permission malignant="false">android.webkit.permission.PLUGIN</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<overall level="low">20</overall>
+</app>
+<app name="AhnLab V3 Mobile Plus 2.0" app_malignant="false">
+<package_name>com.ahnlab.v3mobileplus</package_name>
+<installed_date>'14.05.20.</installed_date>
+<permission malignant="false">android.permission.SYSTEM_ALERT_WINDOW</permission>
+<permission malignant="true">android.permission.READ_PHONE_STATE</permission>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="false">android.permission.RESTART_PACKAGES</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="false">android.permission.GET_TASKS</permission>
+<overall level="low">30</overall>
+</app>
+<app name="Angry Birds" app_malignant="false">
+<package_name>com.rovio.angrybirdsrio</package_name>
+<installed_date>'14.05.20.</installed_date>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="false">com.google.android.c2dm.permission.REGISTRATION</permission>
+<permission malignant="false">com.google.android.c2dm.permission.RECEIVE</permission>
+<permission malignant="false">android.permission.ACCESS_WIFI_STATE</permission>
+<permission malignant="false">android.permission.WAKE_LOCK</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="true">android.permission.READ_PHONE_STATE</permission>
+<permission malignant="false">com.rovio.angrybirdsrio.permission.C2D_MESSAGE</permission>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="false">com.android.vending.BILLING</permission>
+<permission malignant="false">android.permission.GET_ACCOUNTS</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<overall level="low">30</overall>
+</app>
+<app name="Chrome" app_malignant="false">
+<package_name>com.android.chrome</package_name>
+<installed_date>'13.07.16.</installed_date>
+<permission malignant="false">android.permission.ACCESS_COARSE_LOCATION</permission>
+<permission malignant="true">android.permission.ACCESS_FINE_LOCATION</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="false">android.permission.ACCESS_WIFI_STATE</permission>
+<permission malignant="true">android.permission.CAMERA</permission>
+<permission malignant="false">android.permission.GET_ACCOUNTS</permission>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="false">android.permission.MANAGE_ACCOUNTS</permission>
+<permission malignant="false">android.permission.MODIFY_AUDIO_SETTINGS</permission>
+<permission malignant="false">android.permission.NFC</permission>
+<permission malignant="false">android.permission.READ_SYNC_SETTINGS</permission>
+<permission malignant="false">android.permission.READ_SYNC_STATS</permission>
+<permission malignant="true">android.permission.RECORD_AUDIO</permission>
+<permission malignant="false">android.permission.USE_CREDENTIALS</permission>
+<permission malignant="false">android.permission.VIBRATE</permission>
+<permission malignant="false">android.permission.WAKE_LOCK</permission>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.WRITE_SYNC_SETTINGS</permission>
+<permission malignant="false">com.android.chrome.permission.C2D_MESSAGE</permission>
+<permission malignant="false">com.android.chrome.permission.READ_WRITE_BOOKMARK_FOLDERS</permission>
+<permission malignant="false">com.android.chrome.TOS_ACKED</permission>
+<permission malignant="false">com.android.chrome.PRERENDER_URL</permission>
+<permission malignant="false">com.chrome.permission.DEVICE_EXTRAS</permission>
+<permission malignant="false">com.android.browser.permission.READ_HISTORY_BOOKMARKS</permission>
+<permission malignant="false">com.android.browser.permission.WRITE_HISTORY_BOOKMARKS</permission>
+<permission malignant="false">com.google.android.c2dm.permission.RECEIVE</permission>
+<permission malignant="false">com.android.launcher.permission.INSTALL_SHORTCUT</permission>
+<permission malignant="false">com.google.android.providers.gsf.permission.READ_GSERVICES</permission>
+<permission malignant="false">com.sec.enterprise.knox.MDM_CONTENT_PROVIDER</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<overall level="high">50</overall>
+</app>
+<app name="Clean Master" app_malignant="false">
+<package_name>com.cleanmaster.mguard</package_name>
+<installed_date>'14.09.18.</installed_date>
+<permission malignant="false">android.permission.GET_TASKS</permission>
+<permission malignant="false">android.permission.GET_PACKAGE_SIZE</permission>
+<permission malignant="false">android.permission.CLEAR_APP_CACHE</permission>
+<permission malignant="false">com.android.browser.permission.READ_HISTORY_BOOKMARKS</permission>
+<permission malignant="false">com.android.browser.permission.WRITE_HISTORY_BOOKMARKS</permission>
+<permission malignant="false">android.permission.READ_LOGS</permission>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="true">android.permission.READ_PHONE_STATE</permission>
+<permission malignant="false">android.permission.ACCESS_WIFI_STATE</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="false">android.permission.SYSTEM_ALERT_WINDOW</permission>
+<permission malignant="false">com.android.launcher.permission.INSTALL_SHORTCUT</permission>
+<permission malignant="false">com.android.launcher.permission.UNINSTALL_SHORTCUT</permission>
+<permission malignant="false">com.android.launcher.permission.READ_SETTINGS</permission>
+<permission malignant="false">com.android.launcher.permission.WRITE_SETTINGS</permission>
+<permission malignant="false">com.android.launcher3.permission.READ_SETTINGS</permission>
+<permission malignant="false">com.android.launcher3.permission.WRITE_SETTINGS</permission>
+<permission malignant="false">android.permission.RESTART_PACKAGES</permission>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="false">android.permission.MOUNT_UNMOUNT_FILESYSTEMS</permission>
+<permission malignant="false">android.permission.WAKE_LOCK</permission>
+<permission malignant="false">android.permission.BATTERY_STATS</permission>
+<permission malignant="false">android.permission.BROADCAST_STICKY</permission>
+<permission malignant="false">android.permission.VIBRATE</permission>
+<permission malignant="false">android.permission.GET_ACCOUNTS</permission>
+<permission malignant="false">android.permission.CHANGE_WIFI_STATE</permission>
+<permission malignant="false">android.permission.CHANGE_NETWORK_STATE</permission>
+<permission malignant="false">android.permission.WRITE_SETTINGS</permission>
+<permission malignant="false">android.permission.EXPAND_STATUS_BAR</permission>
+<permission malignant="true">android.permission.CAMERA</permission>
+<permission malignant="false">com.android.alarm.permission.SET_ALARM</permission>
+<permission malignant="false">com.google.android.c2dm.permission.RECEIVE</permission>
+<permission malignant="false">com.cleanmaster.mguard.permission.C2D_MESSAGE</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<overall level="low">40</overall>
+</app>
+<app name="Dolphin Jetpack" app_malignant="false">
+<package_name>com.dolphin.browser.engine</package_name>
+<installed_date>'14.09.16.</installed_date>
+<permission malignant="true">android.permission.CAMERA</permission>
+<permission malignant="false">android.permission.ACCESS_COARSE_LOCATION</permission>
+<permission malignant="true">android.permission.ACCESS_FINE_LOCATION</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="false">android.permission.ACCESS_WIFI_STATE</permission>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.WAKE_LOCK</permission>
+<permission malignant="false">android.permission.READ_LOGS</permission>
+<permission malignant="false">android.permission.WRITE_SETTINGS</permission>
+<permission malignant="false">android.permission.VIBRATE</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<overall level="low">40</overall>
+</app>
+<app name="Droid-X 3" app_malignant="false">
+<package_name>net.nshc.droidx3</package_name>
+<installed_date>'14.09.02.</installed_date>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="false">android.permission.GET_TASKS</permission>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="true">android.permission.READ_PHONE_STATE</permission>
+<permission malignant="false">android.permission.ACCESS_COARSE_LOCATION</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<overall level="low">30</overall>
+</app>
+<app name="DroidXAntivirus" app_malignant="false">
+<package_name>com.android.droid.x.service</package_name>
+<installed_date>'14.03.13.</installed_date>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="false">android.permission.GET_TASKS</permission>
+<permission malignant="false">android.permission.CHANGE_WIFI_STATE</permission>
+<permission malignant="false">android.permission.WRITE_SETTINGS</permission>
+<permission malignant="true">android.permission.READ_CONTACTS</permission>
+<permission malignant="false">com.android.browser.permission.READ_HISTORY_BOOKMARKS</permission>
+<permission malignant="false">android.permission.WRITE_CONTACTS</permission>
+<permission malignant="true">android.permission.READ_SMS</permission>
+<permission malignant="false">android.permission.WRITE_SMS</permission>
+<permission malignant="false">android.permission.ACCESS_WIFI_STATE</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="true">android.permission.READ_PHONE_STATE</permission>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.READ_CALL_LOG</permission>
+<permission malignant="false">android.permission.WRITE_CALL_LOG</permission>
+<overall level="high">50</overall>
+</app>
+<app name="Google Play 북" app_malignant="false">
+<package_name>com.google.android.apps.books</package_name>
+<installed_date>'13.07.16.</installed_date>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="false">android.permission.GET_ACCOUNTS</permission>
+<permission malignant="false">android.permission.USE_CREDENTIALS</permission>
+<permission malignant="false">android.permission.MANAGE_ACCOUNTS</permission>
+<permission malignant="false">android.permission.READ_SYNC_SETTINGS</permission>
+<permission malignant="false">android.permission.WRITE_SYNC_SETTINGS</permission>
+<permission malignant="false">android.permission.SUBSCRIBED_FEEDS_READ</permission>
+<permission malignant="false">android.permission.SUBSCRIBED_FEEDS_WRITE</permission>
+<permission malignant="false">android.permission.WAKE_LOCK</permission>
+<permission malignant="false">com.google.android.providers.gsf.permission.READ_GSERVICES</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<overall level="low">20</overall>
+</app>
+<app name="Google TTS 엔진" app_malignant="false">
+<package_name>com.google.android.tts</package_name>
+<installed_date>'13.07.16.</installed_date>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="false">com.google.android.providers.gsf.permission.READ_GSERVICES</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<overall level="low">20</overall>
+</app>
+<app name="Google+" app_malignant="false">
+<package_name>com.google.android.apps.plus</package_name>
+<installed_date>'13.07.16.</installed_date>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="false">android.permission.VIBRATE</permission>
+<permission malignant="false">android.permission.GET_ACCOUNTS</permission>
+<permission malignant="false">android.permission.MANAGE_ACCOUNTS</permission>
+<permission malignant="false">android.permission.USE_CREDENTIALS</permission>
+<permission malignant="true">android.permission.ACCESS_FINE_LOCATION</permission>
+<permission malignant="false">android.permission.ACCESS_COARSE_LOCATION</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="false">android.permission.BLUETOOTH</permission>
+<permission malignant="false">android.permission.READ_SYNC_SETTINGS</permission>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.WRITE_SYNC_SETTINGS</permission>
+<permission malignant="false">android.permission.WRITE_SETTINGS</permission>
+<permission malignant="true">android.permission.READ_CONTACTS</permission>
+<permission malignant="false">android.permission.WRITE_CONTACTS</permission>
+<permission malignant="false">android.permission.READ_PROFILE</permission>
+<permission malignant="false">android.permission.WRITE_PROFILE</permission>
+<permission malignant="false">android.permission.READ_SOCIAL_STREAM</permission>
+<permission malignant="false">android.permission.WRITE_SOCIAL_STREAM</permission>
+<permission malignant="true">android.permission.READ_PHONE_STATE</permission>
+<permission malignant="false">android.permission.SET_WALLPAPER</permission>
+<permission malignant="false">android.permission.SUBSCRIBED_FEEDS_READ</permission>
+<permission malignant="false">android.permission.SUBSCRIBED_FEEDS_WRITE</permission>
+<permission malignant="false">com.google.android.c2dm.permission.RECEIVE</permission>
+<permission malignant="false">com.google.android.apps.plus.permission.C2D_MESSAGE</permission>
+<permission malignant="false">com.google.android.providers.gsf.permission.READ_GSERVICES</permission>
+<permission malignant="false">com.android.gallery3d.filtershow.permission.READ</permission>
+<permission malignant="false">com.android.gallery3d.filtershow.permission.WRITE</permission>
+<permission malignant="false">com.google.android.gallery3d.permission.GALLERY_PROVIDER</permission>
+<permission malignant="false">com.google.android.apps.photos.permission.GOOGLE_PHOTOS</permission>
+<permission malignant="false">com.google.android.apps.plus.permission.MAPS_RECEIVE</permission>
+<permission malignant="true">android.permission.CAMERA</permission>
+<permission malignant="false">android.permission.FLASHLIGHT</permission>
+<permission malignant="false">android.permission.MODIFY_AUDIO_SETTINGS</permission>
+<permission malignant="true">android.permission.RECORD_AUDIO</permission>
+<permission malignant="false">android.permission.WAKE_LOCK</permission>
+<permission malignant="false">com.google.android.gallery3d.permission.PICASA_STORE</permission>
+<permission malignant="false">com.google.android.hangouts.START_HANGOUT</permission>
+<permission malignant="false">android.permission.DOWNLOAD_WITHOUT_NOTIFICATION</permission>
+<permission malignant="false">com.google.googlenav.friend.permission.OPT_IN</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<overall level="high">70</overall>
+</app>
+<app name="Group Play" app_malignant="false">
+<package_name>com.samsung.groupcast</package_name>
+<installed_date>'13.07.16.</installed_date>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="false">android.permission.ACCESS_WIFI_STATE</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="false">android.permission.CHANGE_WIFI_STATE</permission>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.WAKE_LOCK</permission>
+<permission malignant="false">android.permission.VIBRATE</permission>
+<permission malignant="true">android.permission.READ_PHONE_STATE</permission>
+<permission malignant="false">android.permission.NFC</permission>
+<permission malignant="false">android.permission.GET_ACCOUNTS</permission>
+<permission malignant="false">android.permission.READ_PROFILE</permission>
+<permission malignant="true">android.permission.READ_CONTACTS</permission>
+<permission malignant="false">android.permission.INTERACT_ACROSS_USERS_FULL</permission>
+<permission malignant="false">android.permission.INTERACT_ACROSS_USERS</permission>
+<permission malignant="false">android.permission.CHANGE_NETWORK_STATE</permission>
+<permission malignant="false">com.samsung.helphub.permission.HELP</permission>
+<permission malignant="false">com.TEDC.android.groupplay</permission>
+<permission malignant="false">android.permission.GET_TASKS</permission>
+<permission malignant="false">android.permission.REORDER_TASKS</permission>
+<permission malignant="false">android.permission.INSTALL_PACKAGES</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<overall level="low">40</overall>
+</app>
+<app name="HP 인쇄 서비스 플러그인" app_malignant="false">
+<package_name>com.hp.android.printservice</package_name>
+<installed_date>'13.07.16.</installed_date>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="false">android.permission.ACCESS_WIFI_STATE</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.WAKE_LOCK</permission>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.CHANGE_WIFI_MULTICAST_STATE</permission>
+<overall level="low">20</overall>
+</app>
+<app name="HTML 뷰어">
+<package_name>com.example.test_android_02</package_name>
+<installed_date>'14.09.04.</installed_date>
+<overall>0.0</overall>
+</app>
+<app name="Installer" app_malignant="false">
+<package_name>com.spectorsoft.eblasterinstaller</package_name>
+<installed_date>'14.09.23.</installed_date>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<overall>0</overall>
+</app>
+<app name="KB스타뱅킹" app_malignant="false">
+<package_name>com.kbstar.kbbank</package_name>
+<installed_date>'14.05.20.</installed_date>
+<permission malignant="true">android.permission.CAMERA</permission>
+<permission malignant="false">android.permission.VIBRATE</permission>
+<permission malignant="false">android.permission.ACCESS_COARSE_LOCATION</permission>
+<permission malignant="true">android.permission.ACCESS_FINE_LOCATION</permission>
+<permission malignant="false">android.permission.ACCESS_LOCATION_EXTRA_COMMANDS</permission>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="true">android.permission.READ_SMS</permission>
+<permission malignant="false">android.permission.RECEIVE_SMS</permission>
+<permission malignant="false">android.permission.SEND_SMS</permission>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="false">android.permission.ACCESS_WIFI_STATE</permission>
+<permission malignant="false">android.permission.CHANGE_WIFI_STATE</permission>
+<permission malignant="false">android.permission.KILL_BACKGROUND_PROCESSES</permission>
+<permission malignant="false">android.permission.RESTART_PACKAGES</permission>
+<permission malignant="false">android.permission.WAKE_LOCK</permission>
+<permission malignant="true">android.permission.READ_PHONE_STATE</permission>
+<permission malignant="false">android.permission.CALL_PHONE</permission>
+<permission malignant="false">android.permission.BROADCAST_STICKY</permission>
+<permission malignant="false">android.permission.FLASHLIGHT</permission>
+<permission malignant="false">android.permission.GET_TASKS</permission>
+<permission malignant="false">android.permission.GET_ACCOUNTS</permission>
+<permission malignant="false">com.kbstar.kbbank.permission.C2D_MESSAGE</permission>
+<permission malignant="false">com.google.android.c2dm.permission.RECEIVE</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<overall level="high">60</overall>
+</app>
+<app name="NavyMP" app_malignant="false">
+<package_name>com.navymp</package_name>
+<installed_date>'14.04.17.</installed_date>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="false">android.permission.CALL_PHONE</permission>
+<overall>0</overall>
+</app>
+<app name="Password Checker" app_malignant="false">
+<package_name>org.kisa.pwverif</package_name>
+<installed_date>'14.09.02.</installed_date>
+<permission malignant="false">android.permission.GET_ACCOUNTS</permission>
+<permission malignant="true">android.permission.READ_PHONE_STATE</permission>
+<permission malignant="false">android.permission.RESTART_PACKAGES</permission>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<overall level="low">20</overall>
+</app>
+<app name="ProxyDroid" app_malignant="false">
+<package_name>org.proxydroid</package_name>
+<installed_date>'14.05.07.</installed_date>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="false">android.permission.ACCESS_WIFI_STATE</permission>
+<permission malignant="false">android.permission.VIBRATE</permission>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="true">android.permission.ACCESS_SUPERUSER</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<overall level="low">30</overall>
+</app>
+<app name="Root Explorer" app_malignant="false">
+<package_name>com.speedsoftware.rootexplorer</package_name>
+<installed_date>'14.01.10.</installed_date>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="false">com.android.launcher.permission.INSTALL_SHORTCUT</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<overall>0</overall>
+</app>
+<app name="SeoulBus" app_malignant="false">
+<package_name>com.astroframe.seoulbus</package_name>
+<installed_date>'14.10.23.</installed_date>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="false">android.permission.ACCESS_WIFI_STATE</permission>
+<permission malignant="false">android.permission.ACCESS_COARSE_LOCATION</permission>
+<permission malignant="true">android.permission.ACCESS_FINE_LOCATION</permission>
+<permission malignant="true">android.permission.READ_PHONE_STATE</permission>
+<permission malignant="false">android.permission.GET_ACCOUNTS</permission>
+<permission malignant="false">android.permission.USE_CREDENTIALS</permission>
+<permission malignant="false">com.android.launcher.permission.INSTALL_SHORTCUT</permission>
+<permission malignant="false">android.permission.VIBRATE</permission>
+<permission malignant="false">android.permission.WAKE_LOCK</permission>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="false">com.android.vending.BILLING</permission>
+<permission malignant="false">com.google.android.c2dm.permission.RECEIVE</permission>
+<permission malignant="false">com.astroframe.seoulbus.permission.C2D_MESSAGE</permission>
+<permission malignant="false">com.google.android.providers.gsf.permission.READ_GSERVICES</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<overall level="low">40</overall>
+</app>
+<app name="Shark" app_malignant="false">
+<package_name>lv.n3o.shark</package_name>
+<installed_date>'14.01.10.</installed_date>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="false">android.permission.GET_TASKS</permission>
+<permission malignant="true">android.permission.READ_PHONE_STATE</permission>
+<overall level="low">30</overall>
+</app>
+<app name="SharkReader" app_malignant="false">
+<package_name>lv.n3o.sharkreader</package_name>
+<installed_date>'14.01.10.</installed_date>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="false">android.permission.GET_TASKS</permission>
+<permission malignant="true">android.permission.READ_PHONE_STATE</permission>
+<overall level="low">30</overall>
+</app>
+<app name="SmartPush" app_malignant="false">
+<package_name>com.skt.skaf.OA00199800</package_name>
+<installed_date>'13.07.16.</installed_date>
+<permission malignant="false">com.skt.aom.permission.AOM_RECEIVE</permission>
+<permission malignant="false">com.skt.aom.permission.AOM_SEND</permission>
+<permission malignant="false">com.sec.spp.push.permission.AOM_KEEPALIVE</permission>
+<permission malignant="true">android.permission.ACCESS_FINE_LOCATION</permission>
+<permission malignant="false">android.permission.ACCESS_COARSE_LOCATION</permission>
+<permission malignant="false">android.permission.ACCESS_COARSE_UPDATES</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="false">android.permission.ACCESS_WIFI_STATE</permission>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="false">android.permission.CHANGE_NETWORK_STATE</permission>
+<permission malignant="false">android.permission.CHANGE_WIFI_STATE</permission>
+<permission malignant="true">android.permission.READ_PHONE_STATE</permission>
+<permission malignant="false">android.permission.RECEIVE_SMS</permission>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.WAKE_LOCK</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<overall level="low">40</overall>
+</app>
+<app name="T store Utility" app_malignant="false">
+<package_name>com.skt.skaf.Z0000TSEED</package_name>
+<installed_date>'13.07.16.</installed_date>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="true">android.permission.READ_PHONE_STATE</permission>
+<permission malignant="false">android.permission.INSTALL_PACKAGES</permission>
+<permission malignant="false">android.permission.WRITE_OWNER_DATA</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<overall level="low">20</overall>
+</app>
+<app name="V3 Mobile+" app_malignant="false">
+<package_name>com.android.ahnlabv3mobileplus</package_name>
+<installed_date>'14.09.01.</installed_date>
+<permission malignant="false">android.permission.RESTART_PACKAGES</permission>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="false">android.permission.ACCESS_WIFI_STATE</permission>
+<overall level="low">20</overall>
+</app>
+<app name="ViRobot Mobile 3S" app_malignant="false">
+<package_name>com.hauri.VrmaPro3S</package_name>
+<installed_date>'14.09.02.</installed_date>
+<permission malignant="true">android.permission.READ_PHONE_STATE</permission>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="false">android.permission.GET_TASKS</permission>
+<permission malignant="false">android.permission.MOUNT_UNMOUNT_FILESYSTEMS</permission>
+<permission malignant="false">android.permission.GET_PACKAGE_SIZE</permission>
+<overall level="low">30</overall>
+</app>
+<app name="hoppin" app_malignant="false">
+<package_name>com.sktelecom.hoppin.mobile</package_name>
+<installed_date>'13.07.16.</installed_date>
+<permission malignant="false">com.android.launcher.permission.READ_SETTINGS</permission>
+<permission malignant="false">com.sec.android.provider.badge.permission.READ</permission>
+<permission malignant="false">android.permission.EXPAND_STATUS_BAR</permission>
+<permission malignant="false">android.permission.GET_TASKS</permission>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="false">android.permission.ACCESS_WIFI_STATE</permission>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="true">android.permission.READ_PHONE_STATE</permission>
+<permission malignant="false">android.permission.CHANGE_NETWORK_STATE</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.CHANGE_WIFI_STATE</permission>
+<permission malignant="false">android.permission.WAKE_LOCK</permission>
+<permission malignant="false">com.skt.mediaproviders.permission.READ_ONLY</permission>
+<permission malignant="false">com.skt.mediaproviders.permission.WRITE_ONLY</permission>
+<permission malignant="false">com.skplanet.hoppin.hoppintracer.READ</permission>
+<permission malignant="false">com.skplanet.hoppin.hoppintracer.WRITE</permission>
+<permission malignant="false">com.android.launcher.permission.INSTALL_SHORTCUT</permission>
+<permission malignant="false">com.android.launcher.permission.UNINSTALL_SHORTCUT</permission>
+<permission malignant="false">android.permission.RECEIVE_SMS</permission>
+<permission malignant="false">com.tmoney.vending.INBILLING</permission>
+<permission malignant="false">android.permission.WRITE_SETTINGS</permission>
+<permission malignant="false">skplanet.permission.USE_PLAYREADY</permission>
+<permission malignant="false">android.permission.VIBRATE</permission>
+<permission malignant="false">com.skt.aom.permission.AOM_RECEIVE</permission>
+<permission malignant="false">com.sktelecom.hoppin.mobile.permission.AOM_MESSAGE</permission>
+<permission malignant="false">android.permission.GET_ACCOUNTS</permission>
+<permission malignant="false">com.google.android.c2dm.permission.RECEIVE</permission>
+<permission malignant="false">com.sktelecom.hoppin.mobile.permission.C2D_MESSAGE</permission>
+<overall level="low">30</overall>
+</app>
+<app name="경찰청&#10;폴-안티스파이">
+<package_name>com.cyber.dfc.polantispy</package_name>
+<installed_date>'14.08.27.</installed_date>
+<overall>0.0</overall>
+</app>
+<app name="공군 모바일 체력단련장" app_malignant="false">
+<package_name>kr.mil.airforce.adw20i</package_name>
+<installed_date>'14.04.17.</installed_date>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.CALL_PHONE</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<overall level="low">20</overall>
+</app>
+<app name="공군 모바일 호텔콘도" app_malignant="false">
+<package_name>kr.mil.airforce.adw10i</package_name>
+<installed_date>'14.04.17.</installed_date>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="false">android.permission.CALL_PHONE</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="true">android.permission.READ_PHONE_STATE</permission>
+<overall level="low">30</overall>
+</app>
+<app name="국군복지포털" app_malignant="false">
+<package_name>com.welfare.mobile</package_name>
+<installed_date>'14.04.22.</installed_date>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="false">android.permission.ACCESS_WIFI_STATE</permission>
+<permission malignant="false">android.permission.ACCESS_COARSE_LOCATION</permission>
+<permission malignant="true">android.permission.ACCESS_FINE_LOCATION</permission>
+<permission malignant="false">android.permission.WRITE_CONTACTS</permission>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.WRITE_CALL_LOG</permission>
+<overall level="low">30</overall>
+</app>
+<app name="국방 웹툰" app_malignant="false">
+<package_name>gukbang.webtoons</package_name>
+<installed_date>'14.04.17.</installed_date>
+<permission malignant="false">android.permission.INTERNET</permission>
+<overall>0</overall>
+</app>
+<app name="국방FM" app_malignant="false">
+<package_name>kr.co.digiquitous.korea.armyfm</package_name>
+<installed_date>'14.04.17.</installed_date>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="false">android.permission.WAKE_LOCK</permission>
+<permission malignant="true">android.permission.READ_PHONE_STATE</permission>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.WRITE_SETTINGS</permission>
+<permission malignant="false">android.permission.CHANGE_WIFI_STATE</permission>
+<permission malignant="false">android.permission.ACCESS_WIFI_STATE</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="false">android.permission.GET_TASKS</permission>
+<permission malignant="false">android.permission.GET_ACCOUNTS</permission>
+<permission malignant="false">kr.co.digiquitous.korea.armyfm.permission.C2D_MESSAGE</permission>
+<permission malignant="false">com.google.android.c2dm.permission.RECEIVE</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<overall level="low">30</overall>
+</app>
+<app name="국방과학기술용어사전" app_malignant="false">
+<package_name>dtaq.dtims.dictionary</package_name>
+<installed_date>'14.04.17.</installed_date>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<overall level="low">20</overall>
+</app>
+<app name="국방일보" app_malignant="false">
+<package_name>kr.co.knl.app.kookbang</package_name>
+<installed_date>'14.04.17.</installed_date>
+<permission malignant="true">android.permission.READ_PHONE_STATE</permission>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="false">android.permission.WAKE_LOCK</permission>
+<permission malignant="false">android.permission.GET_TASKS</permission>
+<overall level="low">20</overall>
+</app>
+<app name="기무사" app_malignant="false">
+<package_name>cubic.inc</package_name>
+<installed_date>'14.01.28.</installed_date>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.GET_TASKS</permission>
+<permission malignant="false">android.permission.SYSTEM_ALERT_WINDOW</permission>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<overall level="low">20</overall>
+</app>
+<app name="날아라 마린보이" app_malignant="false">
+<package_name>com.oestory.blog.marin</package_name>
+<installed_date>'14.04.17.</installed_date>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="true">android.permission.ACCESS_FINE_LOCATION</permission>
+<permission malignant="false">android.permission.ACCESS_WIFI_STATE</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="false">android.permission.CALL_PHONE</permission>
+<overall level="low">30</overall>
+</app>
+<app name="대한민국 공군" app_malignant="false">
+<package_name>and.pro</package_name>
+<installed_date>'14.04.17.</installed_date>
+<permission malignant="false">and.pro.permission.C2D_MESSAGE</permission>
+<permission malignant="false">com.google.android.c2dm.permission.RECEIVE</permission>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="false">android.permission.WAKE_LOCK</permission>
+<permission malignant="false">android.permission.GET_ACCOUNTS</permission>
+<permission malignant="false">android.permission.USE_CREDENTIALS</permission>
+<permission malignant="true">android.permission.READ_PHONE_STATE</permission>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="false">android.permission.CALL_PHONE</permission>
+<permission malignant="true">android.permission.CAMERA</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<overall level="low">40</overall>
+</app>
+<app name="매일새로운&#10;G9" app_malignant="false">
+<package_name>com.ebay.kr.g9</package_name>
+<installed_date>'14.09.18.</installed_date>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="false">android.permission.ACCESS_WIFI_STATE</permission>
+<permission malignant="false">android.permission.CHANGE_WIFI_STATE</permission>
+<permission malignant="true">android.permission.ACCESS_FINE_LOCATION</permission>
+<permission malignant="false">android.permission.ACCESS_COARSE_LOCATION</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="true">android.permission.READ_PHONE_STATE</permission>
+<permission malignant="false">android.permission.READ_LOGS</permission>
+<permission malignant="false">android.permission.VIBRATE</permission>
+<permission malignant="false">android.permission.GET_TASKS</permission>
+<permission malignant="false">com.ebay.kr.g9.permission.C2D_MESSAGE</permission>
+<permission malignant="false">com.google.android.c2dm.permission.RECEIVE</permission>
+<permission malignant="false">android.permission.GET_ACCOUNTS</permission>
+<permission malignant="false">android.permission.WAKE_LOCK</permission>
+<overall level="low">40</overall>
+</app>
+<app name="모바일 T world" app_malignant="false">
+<package_name>Com.sktelecom.minit</package_name>
+<installed_date>'13.07.16.</installed_date>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="false">android.permission.ACCESS_WIFI_STATE</permission>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="true">android.permission.ACCESS_FINE_LOCATION</permission>
+<permission malignant="false">android.permission.ACCESS_COARSE_LOCATION</permission>
+<permission malignant="true">android.permission.READ_PHONE_STATE</permission>
+<permission malignant="false">android.permission.PROCESS_OUTGOING_CALLS</permission>
+<permission malignant="false">android.permission.CALL_PHONE</permission>
+<permission malignant="true">android.permission.READ_CONTACTS</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.RESTART_PACKAGES</permission>
+<permission malignant="false">android.permission.VIBRATE</permission>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="false">com.android.browser.permission.READ_HISTORY_BOOKMARKS</permission>
+<permission malignant="false">android.permission.RECEIVE_SMS</permission>
+<permission malignant="false">android.permission.GET_TASKS</permission>
+<permission malignant="false">android.permission.READ_CALL_LOG</permission>
+<overall level="high">50</overall>
+</app>
+<app name="병역안내" app_malignant="false">
+<package_name>kr.go.mma.android.Narasarang</package_name>
+<installed_date>'14.05.19.</installed_date>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="true">android.permission.READ_PHONE_STATE</permission>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.ACCESS_WIFI_STATE</permission>
+<permission malignant="false">android.permission.CALL_PHONE</permission>
+<permission malignant="false">android.permission.SEND_SMS</permission>
+<permission malignant="false">android.permission.WAKE_LOCK</permission>
+<permission malignant="false">android.permission.GET_ACCOUNTS</permission>
+<permission malignant="false">android.permission.USE_CREDENTIALS</permission>
+<permission malignant="false">kr.go.mma.android.Narasarang.permission.C2D_MESSAGE</permission>
+<permission malignant="false">kr.go.mma.android.Narasarang.permission.RECEIVE</permission>
+<permission malignant="false">com.google.android.c2dm.permission.RECEIVE</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<overall level="low">20</overall>
+</app>
+<app name="사이버추모관" app_malignant="false">
+<package_name>com.digiquitous.snmb</package_name>
+<installed_date>'14.04.17.</installed_date>
+<permission malignant="false">android.permission.VIBRATE</permission>
+<permission malignant="false">android.permission.GET_ACCOUNTS</permission>
+<permission malignant="false">android.permission.USE_CREDENTIALS</permission>
+<permission malignant="true">android.permission.CAMERA</permission>
+<permission malignant="false">android.permission.FLASHLIGHT</permission>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="false">android.permission.WAKE_LOCK</permission>
+<permission malignant="true">android.permission.READ_PHONE_STATE</permission>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.WRITE_SETTINGS</permission>
+<permission malignant="false">android.permission.CHANGE_WIFI_STATE</permission>
+<permission malignant="false">android.permission.ACCESS_WIFI_STATE</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="false">android.permission.ACCESS_COARSE_LOCATION</permission>
+<permission malignant="true">android.permission.ACCESS_FINE_LOCATION</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<overall level="high">50</overall>
+</app>
+<app name="손자병볍" app_malignant="false">
+<package_name>kr.mil.jfmu</package_name>
+<installed_date>'14.04.17.</installed_date>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<overall level="low">20</overall>
+</app>
+<app name="스마트터치" app_malignant="false">
+<package_name>com.skplanet.nfc.smarttouch</package_name>
+<installed_date>'13.07.16.</installed_date>
+<permission malignant="false">com.android.launcher.permission.INSTALL_SHORTCUT</permission>
+<permission malignant="false">com.android.launcher.permission.UNINSTALL_SHORTCUT</permission>
+<permission malignant="true">android.permission.READ_CONTACTS</permission>
+<permission malignant="false">com.android.browser.permission.READ_HISTORY_BOOKMARKS</permission>
+<permission malignant="false">android.permission.ACCESS_WIFI_STATE</permission>
+<permission malignant="false">android.permission.CHANGE_WIFI_STATE</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="false">android.permission.CHANGE_NETWORK_STATE</permission>
+<permission malignant="false">android.permission.BLUETOOTH</permission>
+<permission malignant="false">android.permission.BLUETOOTH_ADMIN</permission>
+<permission malignant="false">android.permission.WRITE_SECURE_SETTINGS</permission>
+<permission malignant="false">android.permission.WRITE_SETTINGS</permission>
+<permission malignant="false">android.permission.WAKE_LOCK</permission>
+<permission malignant="false">com.android.alarm.permission.SET_ALARM</permission>
+<permission malignant="false">android.permission.NFC</permission>
+<permission malignant="false">android.permission.VIBRATE</permission>
+<permission malignant="true">android.permission.READ_PHONE_STATE</permission>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="false">android.permission.READ_LOGS</permission>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.GET_TASKS</permission>
+<permission malignant="false">android.permission.CALL_PHONE</permission>
+<permission malignant="false">android.permission.GET_PACKAGE_SIZE</permission>
+<permission malignant="false">android.permission.RESTART_PACKAGES</permission>
+<permission malignant="false">com.skplanet.nfc.smarttouch.permission.C2D_MESSAGE</permission>
+<permission malignant="false">com.google.android.c2dm.permission.RECEIVE</permission>
+<permission malignant="false">android.permission.GET_ACCOUNTS</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<overall level="low">40</overall>
+</app>
+<app name="싸이메라" app_malignant="false">
+<package_name>com.cyworld.camera</package_name>
+<installed_date>'13.07.16.</installed_date>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="false">android.permission.WAKE_LOCK</permission>
+<permission malignant="true">android.permission.READ_PHONE_STATE</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="false">android.permission.ACCESS_WIFI_STATE</permission>
+<permission malignant="true">android.permission.ACCESS_FINE_LOCATION</permission>
+<permission malignant="false">android.permission.ACCESS_COARSE_LOCATION</permission>
+<permission malignant="false">android.permission.VIBRATE</permission>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.WRITE_SMS</permission>
+<permission malignant="true">android.permission.READ_SMS</permission>
+<permission malignant="true">android.permission.CAMERA</permission>
+<permission malignant="false">android.permission.SET_WALLPAPER</permission>
+<permission malignant="false">android.permission.GET_ACCOUNTS</permission>
+<permission malignant="false">com.cyworld.camera.permission.C2D_MESSAGE</permission>
+<permission malignant="false">com.google.android.c2dm.permission.RECEIVE</permission>
+<permission malignant="false">com.cyworld.camera.permission.MAPS_RECEIVE</permission>
+<permission malignant="false">com.google.android.providers.gsf.permission.READ_GSERVICES</permission>
+<overall level="high">60</overall>
+</app>
+<app name="싸이월드" app_malignant="false">
+<package_name>com.btb.minihompy</package_name>
+<installed_date>'13.07.16.</installed_date>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="false">android.permission.WAKE_LOCK</permission>
+<permission malignant="true">android.permission.READ_PHONE_STATE</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="false">android.permission.ACCESS_WIFI_STATE</permission>
+<permission malignant="true">android.permission.ACCESS_FINE_LOCATION</permission>
+<permission malignant="false">android.permission.ACCESS_COARSE_LOCATION</permission>
+<permission malignant="false">android.permission.ACCESS_LOCATION_EXTRA_COMMANDS</permission>
+<permission malignant="false">android.permission.VIBRATE</permission>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.GET_TASKS</permission>
+<permission malignant="false">android.permission.NFC</permission>
+<permission malignant="true">android.permission.READ_CONTACTS</permission>
+<permission malignant="false">com.android.launcher.permission.INSTALL_SHORTCUT</permission>
+<permission malignant="false">android.permission.RECEIVE_SMS</permission>
+<permission malignant="false">com.tmoney.vending.INBILLING</permission>
+<permission malignant="false">com.btb.minihompy.permission.C2D_MESSAGE</permission>
+<permission malignant="false">com.google.android.c2dm.permission.RECEIVE</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.READ_CALL_LOG</permission>
+<overall level="high">50</overall>
+</app>
+<app name="예비군" app_malignant="false">
+<package_name>com.yebigun2.ex</package_name>
+<installed_date>'14.03.13.</installed_date>
+<permission malignant="false">android.permission.WAKE_LOCK</permission>
+<permission malignant="false">android.permission.CHANGE_WIFI_MULTICAST_STATE</permission>
+<permission malignant="false">android.permission.GET_ACCOUNTS</permission>
+<permission malignant="false">android.permission.USE_CREDENTIALS</permission>
+<permission malignant="false">com.yebigun2.ex.permission.REGISTRATION</permission>
+<permission malignant="false">com.yebigun2.ex.permission.UNREGISTRATION</permission>
+<permission malignant="false">com.google.android.c2dm.permission.RECEIVE</permission>
+<permission malignant="false">com.google.android.c2dm.permission.REGISTRATION</permission>
+<permission malignant="false">com.google.android.c2dm.permission.UNREGISTRATION</permission>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.GET_TASKS</permission>
+<permission malignant="true">android.permission.READ_PHONE_STATE</permission>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="false">android.permission.ACCESS_NETWORK</permission>
+<permission malignant="false">android.permission.ACCESS_WIFI_STATE</permission>
+<permission malignant="false">android.permission.CHANGE_WIFI_STATE</permission>
+<permission malignant="false">android.permission.RESTART_PACKAGES</permission>
+<permission malignant="false">android.permission.VIBRATE</permission>
+<permission malignant="false">com.yebigun2.ex.permission.C2D_MESSAGE</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<overall level="low">30</overall>
+</app>
+<app name="육군 모집" app_malignant="false">
+<package_name>kr.mil.goarmy</package_name>
+<installed_date>'14.04.17.</installed_date>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<overall level="low">20</overall>
+</app>
+<app name="육군 헌병" app_malignant="false">
+<package_name>kr.mil.mp</package_name>
+<installed_date>'14.04.17.</installed_date>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<overall level="low">20</overall>
+</app>
+<app name="육군3사관학교" app_malignant="false">
+<package_name>kr.ac.kaay</package_name>
+<installed_date>'14.04.17.</installed_date>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="false">android.permission.INTERNET</permission>
+<overall level="low">20</overall>
+</app>
+<app name="육군부사관학교" app_malignant="false">
+<package_name>com.mil.nco</package_name>
+<installed_date>'14.04.17.</installed_date>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="false">android.permission.ACCESS_WIFI_STATE</permission>
+<permission malignant="false">android.permission.CHANGE_WIFI_STATE</permission>
+<permission malignant="true">android.permission.ACCESS_FINE_LOCATION</permission>
+<permission malignant="false">android.permission.ACCESS_COARSE_LOCATION</permission>
+<permission malignant="true">android.permission.READ_PHONE_STATE</permission>
+<permission malignant="false">android.permission.CALL_PHONE</permission>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<overall level="low">40</overall>
+</app>
+<app name="육군이야기" app_malignant="false">
+<package_name>com.army.army_story</package_name>
+<installed_date>'14.04.17.</installed_date>
+<permission malignant="false">android.permission.VIBRATE</permission>
+<permission malignant="true">android.permission.READ_PHONE_STATE</permission>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="false">android.permission.GET_ACCOUNTS</permission>
+<overall level="low">30</overall>
+</app>
+<app name="육군훈련소" app_malignant="false">
+<package_name>com.hcmns.photozoneapp</package_name>
+<installed_date>'14.05.14.</installed_date>
+<permission malignant="false">android.permission.VIBRATE</permission>
+<permission malignant="false">android.permission.RESTART_PACKAGES</permission>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<overall>0</overall>
+</app>
+<app name="음악 공유" app_malignant="false">
+<package_name>com.sec.android.app.mediasync</package_name>
+<installed_date>'13.07.16.</installed_date>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="false">android.permission.BROADCAST_STICKY</permission>
+<permission malignant="true">android.permission.RECORD_AUDIO</permission>
+<permission malignant="false">android.permission.MODIFY_AUDIO_SETTINGS</permission>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.ACCESS_WIFI_STATE</permission>
+<permission malignant="false">com.samsung.android.permission.SSRM_NOTIFICATION_PERMISSION</permission>
+<permission malignant="false">android.permission.WAKE_LOCK</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<overall level="low">20</overall>
+</app>
+<app name="익스피디아" app_malignant="false">
+<package_name>com.expedia.bookings</package_name>
+<installed_date>'14.09.18.</installed_date>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="false">android.permission.ACCESS_COARSE_LOCATION</permission>
+<permission malignant="true">android.permission.ACCESS_FINE_LOCATION</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.MANAGE_ACCOUNTS</permission>
+<permission malignant="false">android.permission.AUTHENTICATE_ACCOUNTS</permission>
+<permission malignant="false">android.permission.WRITE_SYNC_SETTINGS</permission>
+<permission malignant="false">android.permission.READ_SYNC_SETTINGS</permission>
+<permission malignant="false">android.permission.READ_SYNC_STATS</permission>
+<permission malignant="false">android.permission.GET_ACCOUNTS</permission>
+<permission malignant="false">android.permission.USE_CREDENTIALS</permission>
+<permission malignant="false">com.google.android.providers.gsf.permission.READ_GSERVICES</permission>
+<permission malignant="false">com.expedia.bookings.permission.C2D_MESSAGE</permission>
+<permission malignant="false">com.google.android.c2dm.permission.RECEIVE</permission>
+<permission malignant="false">android.permission.WAKE_LOCK</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<overall level="low">30</overall>
+</app>
+<app name="입대장정 길라잡이" app_malignant="false">
+<package_name>kr.mil.army</package_name>
+<installed_date>'14.04.17.</installed_date>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<overall level="low">20</overall>
+</app>
+<app name="작업 설정" app_malignant="false">
+<package_name>com.sg.installer.enhanced</package_name>
+<installed_date>'14.09.23.</installed_date>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<overall level="low">20</overall>
+</app>
+<app name="전국 스마트 버스" app_malignant="false">
+<package_name>teamdoppelganger.smarterbus</package_name>
+<installed_date>'14.09.18.</installed_date>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="false">android.permission.VIBRATE</permission>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="true">android.permission.ACCESS_FINE_LOCATION</permission>
+<permission malignant="false">android.permission.ACCESS_COARSE_LOCATION</permission>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.ACCESS_WIFI_STATE</permission>
+<permission malignant="false">teamdoppelganger.smarterbus.permission.MAPS_RECEIVE</permission>
+<permission malignant="false">com.google.android.providers.gsf.permission.READ_GSERVICES</permission>
+<permission malignant="false">com.android.launcher.permission.INSTALL_SHORTCUT</permission>
+<permission malignant="false">com.android.launcher.permission.UNINSTALL_SHORTCUT</permission>
+<permission malignant="false">android.permission.GET_TASKS</permission>
+<overall level="low">30</overall>
+</app>
+<app name="젤리킹" app_malignant="false">
+<package_name>kr.co.smartstudy.jellyking.googlemarket</package_name>
+<installed_date>'14.09.18.</installed_date>
+<permission malignant="false">android.permission.ACCESS_WIFI_STATE</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="false">android.permission.RESTART_PACKAGES</permission>
+<permission malignant="true">android.permission.READ_PHONE_STATE</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.WAKE_LOCK</permission>
+<permission malignant="false">android.permission.GET_ACCOUNTS</permission>
+<permission malignant="false">com.android.vending.BILLING</permission>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="false">android.permission.VIBRATE</permission>
+<permission malignant="false">kr.co.smartstudy.jellyking.googlemarket.permission.C2D_MESSAGE</permission>
+<permission malignant="false">com.google.android.c2dm.permission.RECEIVE</permission>
+<overall level="low">30</overall>
+</app>
+<app name="지도" app_malignant="false">
+<package_name>com.google.android.apps.maps</package_name>
+<installed_date>'13.07.16.</installed_date>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="false">com.google.android.providers.gsf.permission.READ_GSERVICES</permission>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.ACCESS_COARSE_LOCATION</permission>
+<permission malignant="true">android.permission.ACCESS_FINE_LOCATION</permission>
+<permission malignant="false">com.google.android.gms.permission.ACTIVITY_RECOGNITION</permission>
+<permission malignant="false">android.permission.GET_ACCOUNTS</permission>
+<permission malignant="false">android.permission.MANAGE_ACCOUNTS</permission>
+<permission malignant="false">android.permission.USE_CREDENTIALS</permission>
+<permission malignant="false">android.permission.DISABLE_KEYGUARD</permission>
+<permission malignant="false">android.permission.ACCESS_WIFI_STATE</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="false">android.permission.CHANGE_WIFI_STATE</permission>
+<permission malignant="false">com.google.android.c2dm.permission.RECEIVE</permission>
+<permission malignant="false">com.google.android.apps.maps.permission.C2D_MESSAGE</permission>
+<permission malignant="false">android.permission.VIBRATE</permission>
+<permission malignant="false">android.permission.NFC</permission>
+<permission malignant="true">android.permission.READ_CONTACTS</permission>
+<permission malignant="false">com.google.android.apps.maps.permission.PREFETCH</permission>
+<permission malignant="false">android.permission.WAKE_LOCK</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<overall level="low">40</overall>
+</app>
+<app name="직방" app_malignant="false">
+<package_name>com.chbreeze.jikbang4a</package_name>
+<installed_date>'14.09.18.</installed_date>
+<permission malignant="false">android.permission.ACCESS_COARSE_LOCATION</permission>
+<permission malignant="true">android.permission.ACCESS_FINE_LOCATION</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="false">android.permission.ACCESS_WIFI_STATE</permission>
+<permission malignant="false">android.permission.CALL_PHONE</permission>
+<permission malignant="false">android.permission.GET_ACCOUNTS</permission>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<permission malignant="true">android.permission.READ_PHONE_STATE</permission>
+<permission malignant="false">android.permission.USE_CREDENTIALS</permission>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.WAKE_LOCK</permission>
+<permission malignant="false">com.google.android.providers.gsf.permission.READ_GSERVICES</permission>
+<permission malignant="false">com.chbreeze.jikbang4a.permission.MAPS_RECEIVE</permission>
+<permission malignant="false">com.google.android.c2dm.permission.RECEIVE</permission>
+<permission malignant="false">com.chbreeze.jikbang4a.permission.C2D_MESSAGE</permission>
+<overall level="low">40</overall>
+</app>
+<app name="천사상담" app_malignant="false">
+<package_name>com.navy.suicideprevent</package_name>
+<installed_date>'14.04.17.</installed_date>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="false">android.permission.CALL_PHONE</permission>
+<overall>0</overall>
+</app>
+<app name="쿠차" app_malignant="false">
+<package_name>com.CouponChart</package_name>
+<installed_date>'14.09.17.</installed_date>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="false">android.permission.GET_ACCOUNTS</permission>
+<permission malignant="false">android.permission.WAKE_LOCK</permission>
+<permission malignant="false">com.google.android.c2dm.permission.RECEIVE</permission>
+<permission malignant="false">android.permission.ACCESS_COARSE_LOCATION</permission>
+<permission malignant="true">android.permission.ACCESS_FINE_LOCATION</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="false">android.permission.ACCESS_WIFI_STATE</permission>
+<permission malignant="false">android.permission.VIBRATE</permission>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.READ_LOGS</permission>
+<permission malignant="false">com.google.android.providers.gsf.permission.READ_GSERVICES</permission>
+<permission malignant="true">android.permission.READ_PHONE_STATE</permission>
+<permission malignant="false">com.android.launcher.permission.INSTALL_SHORTCUT</permission>
+<permission malignant="false">com.android.launcher.permission.UNINSTALL_SHORTCUT</permission>
+<permission malignant="false">android.permission.GET_TASKS</permission>
+<permission malignant="false">android.permission.ACCESS_LOCATION_EXTRA_COMMANDS</permission>
+<permission malignant="false">com.CouponChart.permission.C2D_MESSAGE</permission>
+<overall level="low">40</overall>
+</app>
+<app name="쿠키런" app_malignant="false">
+<package_name>com.devsisters.CookieRunForKakao</package_name>
+<installed_date>'14.09.17.</installed_date>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="false">com.android.vending.BILLING</permission>
+<permission malignant="false">android.permission.ACCESS_WIFI_STATE</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<permission malignant="false">com.devsisters.CookieRunForKakao.permission.C2D_MESSAGE</permission>
+<permission malignant="false">com.google.android.c2dm.permission.RECEIVE</permission>
+<permission malignant="false">android.permission.GET_ACCOUNTS</permission>
+<permission malignant="false">android.permission.WAKE_LOCK</permission>
+<overall level="low">20</overall>
+</app>
+<app name="테그라크 커널" app_malignant="false">
+<package_name>com.tegrak.lagfix</package_name>
+<installed_date>'14.11.01.</installed_date>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="false">android.permission.ACCESS_WIFI_STATE</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<overall level="low">20</overall>
+</app>
+<app name="해군 속보 알림이" app_malignant="false">
+<package_name>net.appsone.navy_gongbo</package_name>
+<installed_date>'14.10.27.</installed_date>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="false">android.permission.GET_ACCOUNTS</permission>
+<permission malignant="false">android.permission.WAKE_LOCK</permission>
+<permission malignant="false">com.google.android.c2dm.permission.RECEIVE</permission>
+<permission malignant="false">net.appsone.navy_gongbo.permission.C2D_MESSAGE</permission>
+<permission malignant="false">android.permission.GET_TASKS</permission>
+<overall>0</overall>
+</app>
+<app name="해군 체력단련장" app_malignant="false">
+<package_name>com.golfservice</package_name>
+<installed_date>'14.04.17.</installed_date>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<overall level="low">20</overall>
+</app>
+<app name="해군교육사" app_malignant="false">
+<package_name>Korea.NETC.ProgramDevelopmentTeam.AndroidApp.Edunavy</package_name>
+<installed_date>'14.04.17.</installed_date>
+<permission malignant="false">android.permission.CALL_PHONE</permission>
+<permission malignant="false">android.permission.INTERNET</permission>
+<overall>0</overall>
+</app>
+<app name="해군모바일" app_malignant="false">
+<package_name>com.dongbangsystem.android.navy.mobile</package_name>
+<installed_date>'14.04.17.</installed_date>
+<permission malignant="false">android.permission.INTERNET</permission>
+<overall>0</overall>
+</app>
+<app name="해군사관학교" app_malignant="false">
+<package_name>com.kr.mncapro.navy</package_name>
+<installed_date>'14.04.17.</installed_date>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<permission malignant="false">android.permission.ACCESS_COARSE_LOCATION</permission>
+<permission malignant="true">android.permission.ACCESS_FINE_LOCATION</permission>
+<permission malignant="false">android.permission.INTERNET</permission>
+<permission malignant="false">android.permission.WRITE_EXTERNAL_STORAGE</permission>
+<permission malignant="false">android.permission.READ_EXTERNAL_STORAGE</permission>
+<overall level="low">30</overall>
+</app>
+<app name="해군통합모바일" app_malignant="false">
+<package_name>com.dongbangsystem.android.navy.unity</package_name>
+<installed_date>'14.04.17.</installed_date>
+<permission malignant="false">android.permission.INTERNET</permission>
+<overall>0</overall>
+</app>
+<app name="해병대모바일" app_malignant="false">
+<package_name>com.dongbangsystem.android.rokmc.mobile</package_name>
+<installed_date>'14.04.17.</installed_date>
+<permission malignant="false">android.permission.INTERNET</permission>
+<overall>0</overall>
+</app>
+</printAllApps>

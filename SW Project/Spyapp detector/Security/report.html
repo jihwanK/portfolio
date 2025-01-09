@@ -1,0 +1,558 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>REPORT</title>
+    <style>
+        .malignant {
+            color: blue;
+        }
+
+        a:link {
+            color: black;
+        }
+
+        .app_malignant {
+            color: orange;
+        }
+
+        .perm {
+            padding-left: 30px;
+        }
+
+        .pack {
+            padding-left: 30px;
+        }
+
+        #header1 {
+            position: fixed;
+            width: 100%;
+            height: 33%;
+            border-bottom: 2px solid #cccccc;
+        }
+
+        #content {
+            width: 950px;
+            height: 100%;
+            margin: 0 auto;
+        }
+
+        #malignant_permission {
+            position: fixed;
+            width: auto;
+            margin-left: 50%;
+            height: auto;
+            color: blue;
+            font-size: 12px;
+        }
+
+        .high {
+            color: darkred;
+        }
+
+        .low {
+            color: salmon;
+        }
+
+        #deviceInfo {
+            font-size: 16px;
+            width: 780px;
+            text-align: center;
+        }
+
+        body {}
+
+        #contentBriefInfo {
+            width: 780px;
+            text-align: center;
+        }
+
+        th {
+            background-color: #cccccc;
+        }
+
+        #dangerapp {
+            width: 780px;
+            text-align: center;
+        }
+
+        #vaccine {
+            width: 780px;
+            text-align: center;
+        }
+
+        #spyapp {
+            width: 780px;
+            text-align: center;
+        }
+
+        #securitySetting {
+            width: 780px;
+            text-align: center;
+        }
+
+        #appname {
+            width: 28%;
+        }
+
+        #packname {
+            width: 44%;
+        }
+
+        #date {
+            width: 11%;
+        }
+
+        #danger {
+            width: 11%;
+        }
+
+        #classification {
+            width: 11%;
+        }
+
+        #hypertext {
+            border-left-width: 0px;
+        }
+
+        #score {
+            border-right-width: 0px;
+        }
+
+        img {
+            border: 0
+        }
+
+        #startReport {}
+
+        #detailedInfo {}
+
+        #subtitle {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        #header,
+        #footer {
+            height: 35px;
+        }
+
+        #side {
+            width: 35px;
+        }
+
+        #header>#side {
+            background-color: #39639d;
+        }
+
+        #header>#main {
+            background-color: #7592bb;
+        }
+
+        #contentBody>#side {
+            background-color: #dcdcdc;
+        }
+
+        #contentBody>#main {
+            background-color: white;
+        }
+
+        #footer>#side {
+            background-color: #2da2bf;
+        }
+
+        #footer>#main {
+            background-color: #6cbed2;
+        }
+
+        #mainTitle {
+            border: 3px solid black;
+            margin: auto;
+            width: 680px;
+            font-weight: bold;
+            font-size: 40px;
+            font-family: "HY헤드라인M";
+            padding-top: 10px;
+            padding-bottom: 10px;
+            text-align: center;
+        }
+
+        #contentApp {
+            padding: 20px;
+        }
+
+        #box {
+            display: inline-block;
+            width: 23px;
+            height: 23px;
+            border: 2px solid black;
+        }
+
+        #sub {
+            width: 100%;
+            padding: 5px;
+        }
+
+        #detailedInfo h2 {
+            margin-left: 25px;
+        }
+    </style>
+    <script
+        type="text/javascript">function delfile(pro_name) { if (deletePopup()) { var path = "C:\\Security\\Del_show " + pro_name; var WshShell = new ActiveXObject("WScript.Shell"); WshShell.Run(path, 1, false); document.getElementById(pro_name).bgColor = "#87C8F8"; } } function deletePopup() { if (confirm("정말로 삭제하시겠습니까?")) { return true; } else { return false; } }</script>
+</head>
+
+<body>
+    <div id="content">
+        <table id="subtitle">
+            <tr id="header">
+                <td id="side"> </td>
+                <td id="main"> </td>
+                <td id="side"> </td>
+            </tr>
+            <tr id="contentBody">
+                <td id="side"> </td>
+                <td id="main"><img src="dsc.png" style="width: 300px; margin-top: 10px;">
+                    <div id="contentApp"><br><br>
+                        <div id="mainTitle">스파이앱 점검 결과</div><br><br><br><br>
+                        <div id="startReport">
+                            <div>
+                                <h1>
+                                    <div id="box"> </div>&nbsp; 일 시 : '14.11.01 15:12
+                                </h1>
+                            </div><br>
+                            <div>
+                                <h1>
+                                    <div id="box"> </div>&nbsp; 스마트폰 정보
+                                </h1>
+                                <table cellpadding="5px" id="deviceInfo" border="1" rules="all" align="center">
+                                    <tr>
+                                        <th width="30%">모델명</th>
+                                        <td>갤럭시 S4 LTE-A (SHV-E330S) </td>
+                                    </tr>
+                                    <tr>
+                                        <th>제조사</th>
+                                        <td>samsung</td>
+                                    </tr>
+                                    <tr>
+                                        <th>전화번호</th>
+                                        <td>010 - **** - 0027</td>
+                                    </tr>
+                                    <tr>
+                                        <th>운영체제 버전</th>
+                                        <td>Android 4.2.2</td>
+                                    </tr>
+                                </table>
+                            </div>
+                        </div><br>
+                        <div id="briefInfo">
+                            <h1>
+                                <div id="box"> </div>&nbsp; 점검 결과 (요약)
+                            </h1>
+                            <table border="1" cellpadding="5" id="contentBriefInfo" align="center" rules="all">
+                                <tr>
+                                    <th width="25%">스파이앱</th>
+                                    <th width="25%">백신 및 보안앱</th>
+                                    <th width="25%">위험도 높은 앱</th>
+                                    <th width="25%">기타 보안설정</th>
+                                </tr>
+                                <tr>
+                                    <td>8개</td>
+                                    <td>11개</td>
+                                    <td>2개</td>
+                                    <td>양호</td>
+                                </tr>
+                            </table>
+                        </div><br>
+                        <div id="detailedInfo">
+                            <h1>
+                                <div id="box"> </div>&nbsp; 분야별 점검 결과
+                            </h1>
+                            <div id="contentSpyApp">
+                                <h2>1. 스파이 앱 점검 결과 : 8개 설치</h2>
+                                <table id="spyapp" border="1" rules="all" cellpadding="5" align="center">
+                                    <tr>
+                                        <th id="appname">앱 명칭</th>
+                                        <th id="packname">패키지명</th>
+                                        <th id="date">설치일자</th>
+                                        <th id="danger" colspan="2">삭제</th>
+                                    </tr>
+                                    <tr id="android.sys.process">
+                                        <td id="appname">mspy</td>
+                                        <td id="packname">android.sys.process</td>
+                                        <td id="date">'14.07.17.</td>
+                                        <td id="hypertext"><a href="javascript:delfile('android.sys.process')"><img
+                                                    border="0" src="garbage5.png" width="20px" height="17px" /></a></td>
+                                    </tr>
+                                    <tr id="com.device.system">
+                                        <td id="appname">stealthgenie</td>
+                                        <td id="packname">com.device.system</td>
+                                        <td id="date">'14.09.23.</td>
+                                        <td id="hypertext"><a href="javascript:delfile('com.device.system')"><img
+                                                    border="0" src="garbage5.png" width="20px" height="17px" /></a></td>
+                                    </tr>
+                                    <tr id="com.mseedgames.ArcaneSoul">
+                                        <td id="appname">ArcaneSoul</td>
+                                        <td id="packname">com.mseedgames.ArcaneSoul</td>
+                                        <td id="date">'14.10.31.</td>
+                                        <td id="hypertext"><a
+                                                href="javascript:delfile('com.mseedgames.ArcaneSoul')"><img border="0"
+                                                    src="garbage5.png" width="20px" height="17px" /></a></td>
+                                    </tr>
+                                    <tr id="com.sg.installer.enhanced">
+                                        <td id="appname">stealthgenie</td>
+                                        <td id="packname">com.sg.installer.enhanced</td>
+                                        <td id="date">'14.09.23.</td>
+                                        <td id="hypertext"><a
+                                                href="javascript:delfile('com.sg.installer.enhanced')"><img border="0"
+                                                    src="garbage5.png" width="20px" height="17px" /></a></td>
+                                    </tr>
+                                    <tr id="com.spectorsoft.eblasterinstaller">
+                                        <td id="appname">eblaster-mobile</td>
+                                        <td id="packname">com.spectorsoft.eblasterinstaller</td>
+                                        <td id="date">'14.09.23.</td>
+                                        <td id="hypertext"><a
+                                                href="javascript:delfile('com.spectorsoft.eblasterinstaller')"><img
+                                                    border="0" src="garbage5.png" width="20px" height="17px" /></a></td>
+                                    </tr>
+                                    <tr id="com.system.gps.tools.mmmonnnitor">
+                                        <td id="appname">mobile-monitor</td>
+                                        <td id="packname">com.system.gps.tools.mmmonnnitor</td>
+                                        <td id="date">'14.10.02.</td>
+                                        <td id="hypertext"><a
+                                                href="javascript:delfile('com.system.gps.tools.mmmonnnitor')"><img
+                                                    border="0" src="garbage5.png" width="20px" height="17px" /></a></td>
+                                    </tr>
+                                    <tr id="com.ubisoft.rabbids.bigbang.ggp">
+                                        <td id="appname">BigBang</td>
+                                        <td id="packname">com.ubisoft.rabbids.bigbang.ggp</td>
+                                        <td id="date">'14.11.01.</td>
+                                        <td id="hypertext"><a
+                                                href="javascript:delfile('com.ubisoft.rabbids.bigbang.ggp')"><img
+                                                    border="0" src="garbage5.png" width="20px" height="17px" /></a></td>
+                                    </tr>
+                                    <tr id="jp.co.ponos.battlecatskr">
+                                        <td id="appname">냥코 대전쟁</td>
+                                        <td id="packname">jp.co.ponos.battlecatskr</td>
+                                        <td id="date">'14.11.01.</td>
+                                        <td id="hypertext"><a href="javascript:delfile('jp.co.ponos.battlecatskr')"><img
+                                                    border="0" src="garbage5.png" width="20px" height="17px" /></a></td>
+                                    </tr>
+                                </table>
+                            </div>
+                            <div id="contentDangerApp">
+                                <h2> 2. 해킹 P/G 점검 결과 : 2개 위험</h2>
+                                <table id="dangerapp" border="1" rules="all" cellpadding="5" align="center">
+                                    <tr>
+                                        <th id="appname">앱 명칭</th>
+                                        <th id="packname">패키지명</th>
+                                        <th id="date">설치일자</th>
+                                        <th id="danger" colspan="2">위험도</th>
+                                    </tr>
+                                    <tr id="com.appon.diamond.view">
+                                        <td id="appname">Diamond Pick</td>
+                                        <td id="packname"><a
+                                                onclick='this.nextSibling.style.display=(this.nextSibling.style.display=="none")?"block":"none";'>
+                                                <div class="app_malignant"><b>com.appon.diamond.view</b></div>
+                                            </a>
+                                            <div style="display: none;"><br>
+                                                <div>
+                                                    <table class="perm" align="center">
+                                                        <tr class="malignant" id="package">
+                                                            <td>주소록 읽어 오는 권한</td>
+                                                        </tr>
+                                                        <tr class="malignant" id="package">
+                                                            <td>스마트폰 정보 읽어 오는 권한</td>
+                                                        </tr>
+                                                        <tr class="malignant" id="package">
+                                                            <td>일정 읽어 오는 권한</td>
+                                                        </tr>
+                                                        <tr class="malignant" id="package">
+                                                            <td>문자메세지 읽기 권한</td>
+                                                        </tr>
+                                                        <tr class="malignant" id="package">
+                                                            <td>스마트폰 실행시 자동 실행 권한</td>
+                                                        </tr>
+                                                        <tr class="malignant" id="package">
+                                                            <td>사진 / 동영상 촬영 권한</td>
+                                                        </tr>
+                                                        <tr class="malignant" id="package">
+                                                            <td>사용자의 정확한 위치(GPS)에 접근하는 권한</td>
+                                                        </tr>
+                                                        <tr class="malignant" id="package">
+                                                            <td>음성 녹음 권한</td>
+                                                        </tr>
+                                                        <tr class="malignant" id="package">
+                                                            <td>네트워크에 대한 정보에 접근하는 권한</td>
+                                                        </tr>
+                                                    </table>
+                                                </div>
+                                            </div>
+                                        </td>
+                                        <td id="date">'14.09.25.</td>
+                                        <td id="score" class="high" align="center"><b>90%</td>
+                                        <td id="hypertext"><a href="javascript:delfile('com.appon.diamond.view')"><img
+                                                    src="garbage5.png" width="20px" height="17px" /></a></td>
+                                    </tr>
+                                    <tr id="com.ajanitech.skyfighters_33946900">
+                                        <td id="appname">Sky Fighters</td>
+                                        <td id="packname"><a
+                                                onclick='this.nextSibling.style.display=(this.nextSibling.style.display=="none")?"block":"none";'>
+                                                <div class="app_malignant"><b>com.ajanitech.skyfighters_33946900</b>
+                                                </div>
+                                            </a>
+                                            <div style="display: none;"><br>
+                                                <div>
+                                                    <table class="perm" align="center">
+                                                        <tr class="malignant" id="package">
+                                                            <td>주소록 읽어 오는 권한</td>
+                                                        </tr>
+                                                        <tr class="malignant" id="package">
+                                                            <td>스마트폰 정보 읽어 오는 권한</td>
+                                                        </tr>
+                                                        <tr class="malignant" id="package">
+                                                            <td>일정 읽어 오는 권한</td>
+                                                        </tr>
+                                                        <tr class="malignant" id="package">
+                                                            <td>문자메세지 읽기 권한</td>
+                                                        </tr>
+                                                        <tr class="malignant" id="package">
+                                                            <td>스마트폰 실행시 자동 실행 권한</td>
+                                                        </tr>
+                                                        <tr class="malignant" id="package">
+                                                            <td>사진 / 동영상 촬영 권한</td>
+                                                        </tr>
+                                                        <tr class="malignant" id="package">
+                                                            <td>사용자의 정확한 위치(GPS)에 접근하는 권한</td>
+                                                        </tr>
+                                                        <tr class="malignant" id="package">
+                                                            <td>음성 녹음 권한</td>
+                                                        </tr>
+                                                        <tr class="malignant" id="package">
+                                                            <td>네트워크에 대한 정보에 접근하는 권한</td>
+                                                        </tr>
+                                                    </table>
+                                                </div>
+                                            </div>
+                                        </td>
+                                        <td id="date">'14.09.25.</td>
+                                        <td id="score" class="high" align="center"><b>90%</td>
+                                        <td id="hypertext"><a
+                                                href="javascript:delfile('com.ajanitech.skyfighters_33946900')"><img
+                                                    src="garbage5.png" width="20px" height="17px" /></a></td>
+                                    </tr>
+                                </table>
+                            </div>
+                            <div id="contentVaccine">
+                                <h2> 3. 백신 등 보안 P/G 점검 결과 : 11개 설치</h2>
+                                <table id="vaccine" border="1" rules="all" cellpadding="5" align="center">
+                                    <tr>
+                                        <th id="appname">앱 명칭</th>
+                                        <th id="packname">패키지명</th>
+                                        <th id="date">설치일자</th>
+                                        <th id="classification">구분</th>
+                                    </tr>
+                                    <tr>
+                                        <td id="appname">AhnLab V3 Mobile Plus 2.0</td>
+                                        <td id="packname">com.ahnlab.v3mobileplus</td>
+                                        <td id="date">'14.05.20.</td>
+                                        <td id="classification">백신</td>
+                                    </tr>
+                                    <tr>
+                                        <td id="appname">V3 Mobile+</td>
+                                        <td id="packname">com.android.ahnlabv3mobileplus</td>
+                                        <td id="date">'14.09.01.</td>
+                                        <td id="classification">백신</td>
+                                    </tr>
+                                    <tr>
+                                        <td id="appname">V3 Mobile 2.0</td>
+                                        <td id="packname">com.android.ahnmobilesecurity</td>
+                                        <td id="date">'13.07.16.</td>
+                                        <td id="classification">백신</td>
+                                    </tr>
+                                    <tr>
+                                        <td id="appname">avast! 모바일 시큐리티</td>
+                                        <td id="packname">com.avast.android.mobilesecurity</td>
+                                        <td id="date">'14.09.02.</td>
+                                        <td id="classification">백신</td>
+                                    </tr>
+                                    <tr>
+                                        <td id="appname">알약</td>
+                                        <td id="packname">com.estsoft.alyac</td>
+                                        <td id="date">'14.09.01.</td>
+                                        <td id="classification">백신</td>
+                                    </tr>
+                                    <tr>
+                                        <td id="appname">ViRobot Mobile Pro</td>
+                                        <td id="packname">com.hauri.VrmaPro</td>
+                                        <td id="date">'14.01.27.</td>
+                                        <td id="classification">백신</td>
+                                    </tr>
+                                    <tr>
+                                        <td id="appname">ViRobot Mobile 3S</td>
+                                        <td id="packname">com.hauri.VrmaPro3S</td>
+                                        <td id="date">'14.09.02.</td>
+                                        <td id="classification">백신</td>
+                                    </tr>
+                                    <tr>
+                                        <td id="appname">nProtect Mobile</td>
+                                        <td id="packname">com.inca.nprotect</td>
+                                        <td id="date">'14.09.02.</td>
+                                        <td id="classification">백신</td>
+                                    </tr>
+                                    <tr>
+                                        <td id="appname">폰키퍼</td>
+                                        <td id="packname">com.kisa.secheck.android</td>
+                                        <td id="date">'14.09.01.</td>
+                                        <td id="classification">보안앱</td>
+                                    </tr>
+                                    <tr>
+                                        <td id="appname">바이러스스캔 모바일</td>
+                                        <td id="packname">com.mcafee.vsmandroid</td>
+                                        <td id="date">'14.09.01.</td>
+                                        <td id="classification">백신</td>
+                                    </tr>
+                                    <tr>
+                                        <td id="appname">Norton Mobile Security</td>
+                                        <td id="packname">com.symantec.mobilesecurity</td>
+                                        <td id="date">'13.12.20.</td>
+                                        <td id="classification">백신</td>
+                                    </tr>
+                                </table>
+                            </div>
+                            <div id="contentSecurity">
+                                <h2> 4. 개인정보보호 등 보안 설정 점검 결과 </h2>
+                                <table id="securitySetting" cellpadding="5" border="1" rules="all" align="center">
+                                    <tr>
+                                        <th width="16%" title="잠금화면은 비밀번호 or 패턴을 권장합니다.">화면잠금</th>
+                                        <th width="16%" title="블루투스는 해제하는 것을 권장합니다.">블루투스</th>
+                                        <th width="16%" title="WiFi는 해제하는 것을 권장합니다.">Wi-Fi</th>
+                                        <th width="16%" title="GPS는 해제하는 것을 권장합니다.">GPS</th>
+                                        <th width="16%" title="NFC는 해제하는 것을 권장합니다.">NFC</th>
+                                        <th width="16%" title="출처를 알 수 없는 앱 허용은 해제하는 것을 권장합니다.">출처를 알 수<br>없는 앱 허용</th>
+                                    </tr>
+                                    <tr>
+                                        <td>비밀번호</td>
+                                        <td>해제</td>
+                                        <td>해제</td>
+                                        <td>해제</td>
+                                        <td>해제</td>
+                                        <td>해제</td>
+                                    </tr>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </td>
+                <td id="side"> </td>
+            </tr>
+            <tr id="footer">
+                <td id="side"> </td>
+                <td id="main"> </td>
+                <td id="side"> </td>
+            </tr>
+        </table>
+    </div>
+</body>
+
+</html>

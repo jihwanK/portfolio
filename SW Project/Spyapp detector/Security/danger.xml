@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?><printDangerApps The_Number_Of_Danger_Applications="2">
+<app name="Diamond Pick">
+<package_name>com.appon.diamond.view</package_name>
+<installed_date>'14.09.25.</installed_date>
+<permission malignant="true">android.permission.READ_CONTACTS</permission>
+<permission malignant="true">android.permission.READ_PHONE_STATE</permission>
+<permission malignant="true">android.permission.READ_CALENDAR</permission>
+<permission malignant="true">android.permission.READ_SMS</permission>
+<permission malignant="true">android.permission.RECEIVE_BOOT_COMPLETED</permission>
+<permission malignant="true">android.permission.CAMERA</permission>
+<permission malignant="true">android.permission.ACCESS_FINE_LOCATION</permission>
+<permission malignant="true">android.permission.RECORD_AUDIO</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<overall>90</overall>
+</app>
+<app name="Sky Fighters">
+<package_name>com.ajanitech.skyfighters_33946900</package_name>
+<installed_date>'14.09.25.</installed_date>
+<permission malignant="true">android.permission.READ_CONTACTS</permission>
+<permission malignant="true">android.permission.READ_PHONE_STATE</permission>
+<permission malignant="true">android.permission.READ_CALENDAR</permission>
+<permission malignant="true">android.permission.READ_SMS</permission>
+<permission malignant="true">android.permission.RECEIVE_BOOT_COMPLETED</permission>
+<permission malignant="true">android.permission.CAMERA</permission>
+<permission malignant="true">android.permission.ACCESS_FINE_LOCATION</permission>
+<permission malignant="true">android.permission.RECORD_AUDIO</permission>
+<permission malignant="true">android.permission.ACCESS_NETWORK_STATE</permission>
+<overall>90</overall>
+</app>
+</printDangerApps>
